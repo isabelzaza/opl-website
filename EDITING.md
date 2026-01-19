@@ -62,6 +62,58 @@ To change colors, fonts, or layout:
 
 ## Step-by-Step: Editing Content
 
+### Example: Adding a News Post (Easiest!)
+
+**News items use Jekyll's "posts" feature - just drop in a new file!**
+
+1. **Go to the `_posts` folder** in your website directory
+
+2. **Create a new file** with this naming format:
+   ```
+   YYYY-MM-DD-short-description.md
+   ```
+
+   Examples:
+   - `2026-01-19-new-grant-awarded.md`
+   - `2026-02-14-lab-photo.md`
+   - `2026-03-01-conference-presentation.md`
+
+3. **Add this content** (copy/paste and modify):
+
+   ```markdown
+   ---
+   layout: post
+   title: "Your News Title Here"
+   date: 2026-01-19
+   ---
+
+   Your news content goes here. You can write as much as you want!
+
+   - Use bullet points
+   - Add links: [link text](http://url.com)
+   - **Bold** and *italic* text
+   ```
+
+4. **Optional: Add an image** by adding this line to the front matter:
+   ```markdown
+   ---
+   layout: post
+   title: "Your News Title Here"
+   date: 2026-01-19
+   image: /assets/images/your-photo.jpg
+   ---
+   ```
+
+   (Make sure the image is in `assets/images/` first!)
+
+5. **Save the file** (Cmd+S)
+
+6. **That's it!** The news page automatically shows all posts, newest first
+
+**Pro tip:** Just duplicate an existing file from `_posts/` and modify it - easiest way!
+
+---
+
 ### Example: Adding a New Publication
 
 1. **Open the file** in your text editor:
@@ -267,6 +319,35 @@ Don't panic! Git tracks everything.
 
 ## Common Editing Tasks
 
+### Add a News Post
+
+**This is the easiest way to update your site!**
+
+1. **Create file** in `_posts/` folder:
+   - Name: `2026-01-19-short-title.md` (use today's date)
+
+2. **Copy this template:**
+   ```markdown
+   ---
+   layout: post
+   title: "News Title"
+   date: 2026-01-19
+   image: /assets/images/photo.jpg  # Optional
+   ---
+
+   News content here...
+   ```
+
+3. **Save, commit, and push** (see Publishing section)
+
+4. **Done!** Appears automatically on news page
+
+**To edit an existing news post:** Just open the file in `_posts/` and edit it!
+
+**To delete a news post:** Delete the file from `_posts/` folder
+
+---
+
 ### Add a Lab Photo
 
 1. Put photo in `assets/images/`
@@ -329,10 +410,16 @@ NewWebSite/
 ├── research.md           ← Research page
 ├── people.md             ← People page
 ├── publications.md       ← Publications
+├── news.md               ← News page (displays posts automatically)
 ├── resources.md          ← Resources
-├── contact.md            ← Contact info
+├── _posts/               ← ⭐ NEWS POSTS GO HERE ⭐
+│   ├── 2025-11-05-conor-defense.md
+│   ├── 2025-12-10-annual-review-published.md
+│   └── 2025-12-15-vss-2026-presentations.md
 ├── _config.yml           ← Site settings (rarely edit)
 ├── _layouts/             ← Page templates (rarely edit)
+│   ├── default.html
+│   └── post.html         ← News post template
 ├── _includes/            ← Header/footer (rarely edit)
 ├── _sass/                ← Styles and colors
 │   ├── _colors.scss      ← Color palette
@@ -340,9 +427,10 @@ NewWebSite/
 │   └── main.scss         ← Main styles
 ├── assets/
 │   ├── css/              ← Compiled styles (don't edit)
-│   └── images/           ← Your images
+│   └── images/           ← Your images & news photos
 │       ├── painting-texture.jpg
-│       └── people/       ← Team photos
+│       ├── conor-defense-2025.png
+│       └── isabel-blue-room-2025.jpg
 └── _site/                ← Generated site (don't edit, auto-created)
 ```
 
@@ -436,11 +524,18 @@ bundle exec jekyll serve
 9. Wait ~30 seconds
 10. Refresh your website!
 
-**Most commonly edited files:**
+**Most commonly edited:**
+- `_posts/YYYY-MM-DD-title.md` - ⭐ Add news (create new file!)
 - `publications.md` - Add papers
 - `people.md` - Update team
 - `index.md` - Homepage updates
 - `_sass/_colors.scss` - Color changes
+
+**Quick way to add news:**
+1. Duplicate any file in `_posts/`
+2. Rename with today's date: `2026-01-19-my-news.md`
+3. Edit title, date, and content
+4. Save, commit, push - done!
 
 ---
 
