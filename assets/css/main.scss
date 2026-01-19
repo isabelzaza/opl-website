@@ -177,7 +177,7 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/assets/images/painting-texture.jpg');
+    background-image: url('{{ site.baseurl }}/assets/images/painting-texture.jpg');
     background-size: 150%;
     background-position: center 20%;
     opacity: 0.7;
@@ -384,7 +384,7 @@ a {
   &::after {
     content: '';
     position: absolute;
-    background-image: url('/assets/images/painting-texture.jpg');
+    background-image: url('{{ site.baseurl }}/assets/images/painting-texture.jpg');
     background-size: 200%;
     opacity: 0.08;
     pointer-events: none;
@@ -427,7 +427,7 @@ a {
     position: absolute;
     width: 120%;
     height: 120%;
-    background-image: url('/assets/images/painting-texture.jpg');
+    background-image: url('{{ site.baseurl }}/assets/images/painting-texture.jpg');
     background-size: 400%;
     background-position: 60% 65%;
     opacity: 0.6;

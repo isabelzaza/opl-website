@@ -7,7 +7,7 @@ title: People
 
 <div class="people-grid">
   <div class="person-card">
-    <img src="/assets/images/isabel-gauthier.png" alt="Isabel Gauthier">
+    <img src="{{ site.baseurl }}/assets/images/isabel-gauthier.png" alt="Isabel Gauthier">
     <a href="https://scholar.google.com/citations?user=zMFcCjEAAAAJ&hl=en&oi=ao">Isabel Gauthier</a>
     <div class="title">David K Wilson Professor of Psychology<br>
     Editor, JEP:HPP • Vice Department Chair</div>
@@ -15,25 +15,25 @@ title: People
   </div>
 
   <div class="person-card">
-    <img src="/assets/images/conor-smithson.png" alt="Conor Smithson">
+    <img src="{{ site.baseurl }}/assets/images/conor-smithson.png" alt="Conor Smithson">
     <a href="https://scholar.google.com/citations?hl=en&user=pp-XTPwAAAAJ">Conor Smithson</a>
     <div class="title">Post Doc</div>
   </div>
 
   <div class="person-card">
-    <img src="/assets/images/melina-mueller.jpeg" alt="Melina Mueller">
+    <img src="{{ site.baseurl }}/assets/images/melina-mueller.jpeg" alt="Melina Mueller">
     <a href="https://www.linkedin.com/in/melina-mueller-b627aa233/">Melina Mueller</a>
     <div class="title">Graduate Student</div>
   </div>
 
   <div class="person-card">
-    <img src="/assets/images/Ikhwan-Jeon.jpg" alt="Ikhwan Jeon">
+    <img src="{{ site.baseurl }}/assets/images/Ikhwan-Jeon.jpg" alt="Ikhwan Jeon">
     <div>Ikhwan Jeon</div>
     <div class="title">Graduate Student</div>
   </div>
 
   <div class="person-card">
-    <img src="/assets/images/magen-speegle.jpg" alt="Magen Speegle">
+    <img src="{{ site.baseurl }}/assets/images/magen-speegle.jpg" alt="Magen Speegle">
     <a href="https://www.linkedin.com/in/magen-speegle-18718420/">Magen Speegle</a>
     <div class="title">Peer Review Coordinator at JEP:HPP</div>
   </div>

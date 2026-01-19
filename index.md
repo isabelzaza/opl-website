@@ -10,11 +10,11 @@ title: Home
 <div class="slideshow-container">
   <div class="slideshow">
     <div class="slide">
-      <img src="/assets/images/lab-photo-2025.jpg" alt="OPL Lab Group 2025">
+      <img src="{{ site.baseurl }}/assets/images/lab-photo-2025.jpg" alt="OPL Lab Group 2025">
       <div class="caption">OPL Lab Group 2025</div>
     </div>
     <div class="slide">
-      <img src="/assets/images/painting-texture.jpg" alt="Where the magic bears live by Matt Crump">
+      <img src="{{ site.baseurl }}/assets/images/painting-texture.jpg" alt="Where the magic bears live by Matt Crump">
       <div class="caption">"Where the magic bears live" by <a href="https://www.crumplab.com/things/" target="_blank">Matt Crump</a> (72 in × 48 in, oil on wood) — Commissioned artwork in Dr. Gauthier's office, 308 Wilson Hall on Vanderbilt Campus, inspiring the visual design of this site</div>
     </div>
   </div>
@@ -27,5 +27,5 @@ OPL is Dr. Isabel Gauthier's research group at Vanderbilt University, located in
 </div>
 
 <div style="text-align: center; margin-top: 3rem;">
-  <a href="/research/" style="display: inline-block; padding: 1rem 2rem; background: linear-gradient(135deg, #7CB9E8, #D4BBFF); color: white; border-radius: 8px; font-weight: 600; text-decoration: none;">Learn More About Our Research</a>
+  <a href="{{ site.baseurl }}/research/" style="display: inline-block; padding: 1rem 2rem; background: linear-gradient(135deg, #7CB9E8, #D4BBFF); color: white; border-radius: 8px; font-weight: 600; text-decoration: none;">Learn More About Our Research</a>
 </div>

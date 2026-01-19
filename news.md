@@ -28,7 +28,7 @@ title: News
 
 **November** - Congratulations Dr. Smithson! Conor defended his thesis on Nov 5, "The Structure and Correlates of Domain-general Object Recognition Ability"!
 
-<p style="text-align: center;"><img src="/assets/images/conor-defense-2025.png" alt="Conor Smithson thesis defense" style="max-width: 350px; width: 100%; height: auto; border-radius: 8px;"></p>
+<p style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/conor-defense-2025.png" alt="Conor Smithson thesis defense" style="max-width: 350px; width: 100%; height: auto; border-radius: 8px;"></p>
 
 <div style="text-align: center; margin: 2rem 0;">
   <div style="display: inline-block; width: 100px; height: 3px; background: linear-gradient(to right, #FFB3D9, #D4BBFF); border-radius: 2px;"></div>
@@ -36,10 +36,10 @@ title: News
 
 **August** - Isabel speaks at the Blue Room ([read more at WPLN News](https://wpln.org/tipsy-teachings-ft-dr-gauthier-on-psychology-at-the-blue-room/){: target="_blank"}).
 
-<p style="text-align: center;"><img src="/assets/images/isabel-blue-room-2025.jpg" alt="Isabel Gauthier at the Blue Room" style="max-width: 400px; width: 100%; height: auto; border-radius: 8px;"></p>
+<p style="text-align: center;"><img src="{{ site.baseurl }}/assets/images/isabel-blue-room-2025.jpg" alt="Isabel Gauthier at the Blue Room" style="max-width: 400px; width: 100%; height: auto; border-radius: 8px;"></p>
 
 <h2>Recent Publications</h2>
 
-Check out our latest research on the [Publications](/publications/) page.
+Check out our latest research on the [Publications]({{ site.baseurl }}/publications/) page.
 
 </div>
