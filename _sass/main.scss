@@ -563,22 +563,22 @@ a {
     font-size: 1.5rem;
   }
 
-  // Slideshow images - make much smaller on mobile
+  // Slideshow images - make MUCH smaller on mobile
   .slideshow {
     max-width: 100%;
   }
 
   .slide img {
-    max-width: 95% !important;
-    width: 95% !important;
+    max-width: 70% !important;
+    width: 70% !important;
     height: auto;
-    border-width: 4px; // Thinner border on mobile
+    border-width: 3px; // Thinner border on mobile
   }
 
   .slide .caption {
-    font-size: 0.85rem;
-    margin-top: $spacing-sm;
-    margin-bottom: $spacing-sm;
+    font-size: 0.8rem;
+    margin-top: $spacing-xs;
+    margin-bottom: $spacing-xs;
   }
 
   // General image sizing on mobile
@@ -591,6 +591,27 @@ a {
   .person-card img {
     max-width: 120px;
     height: 120px;
+  }
+
+  // Home page specific fixes
+  .hero {
+    h1 {
+      font-size: 1.3rem !important;
+      line-height: 1.4;
+    }
+  }
+
+  // Reduce paragraph text on mobile
+  p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: $spacing-sm;
+  }
+
+  // Make button smaller on mobile
+  a[style*="padding: 1rem 2rem"] {
+    padding: 0.75rem 1.25rem !important;
+    font-size: 0.9rem !important;
   }
 
   // Publication entries
