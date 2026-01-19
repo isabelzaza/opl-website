@@ -2,12 +2,38 @@
 
 This guide shows you how to edit your website content and publish updates using GitHub Desktop.
 
+**Your Live Site:** https://isabelzaza.github.io/opl-website/
+
 ## The Workflow
 
 1. **Edit** files locally on your computer (in your favorite text editor)
 2. **Preview** changes locally in your browser (optional but recommended)
-3. **Commit** changes using GitHub Desktop
-4. **Push** to GitHub → site updates automatically
+3. **Save** your changes
+4. **Open GitHub Desktop** and review what changed
+5. **Commit** changes with a descriptive message
+6. **Push** to GitHub → site updates automatically in ~30 seconds
+
+---
+
+## 🚨 CRITICAL: Image and Link Paths
+
+**Always use `{{ site.baseurl }}` before internal paths!**
+
+Your site is at `/opl-website/`, so all internal links need this prefix.
+
+✅ **Correct:**
+```markdown
+<img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Photo">
+<a href="{{ site.baseurl }}/research/">Research</a>
+```
+
+❌ **Wrong (will cause 404 errors):**
+```markdown
+<img src="/assets/images/photo.jpg" alt="Photo">
+<a href="/research/">Research</a>
+```
+
+**Exception:** CSS files use relative paths like `../images/photo.jpg` (don't edit CSS unless you know what you're doing!)
 
 ---
 
@@ -76,12 +102,14 @@ To change colors, fonts, or layout:
    ```
 
 3. **To add a photo** (optional):
-   - Put the photo in `assets/images/people/`
+   - Put the photo in `assets/images/`
    - Add before the name in the card:
 
    ```markdown
-   <img src="/assets/images/people/name.jpg" alt="Name">
+   <img src="{{ site.baseurl }}/assets/images/name.jpg" alt="Name">
    ```
+
+   **IMPORTANT:** Always use `{{ site.baseurl }}` before `/assets/` for images and links!
 
 4. **Save the file**
 
@@ -123,11 +151,14 @@ Server running... press ctrl-c to stop.
 
 ### View Your Site
 
-1. Open browser to: `http://localhost:4000`
+1. Open browser to: `http://localhost:4000/opl-website/`
+   - Note: Include `/opl-website/` at the end!
 2. Your site appears exactly as it will online
 3. Make changes to files
 4. Refresh browser - changes appear automatically!
 5. When done, press **Ctrl+C** in Terminal to stop the server
+
+**Tip:** If images don't show when previewing locally, make sure you're using the full URL with `/opl-website/` at the end.
 
 ---
 
@@ -138,8 +169,11 @@ Once you're happy with your edits:
 ### Step 1: Open GitHub Desktop
 
 1. Launch GitHub Desktop
-2. Your repository should appear in the left sidebar
-3. If not, click "Add" → "Add Existing Repository"
+2. Select your repository: `opl-website` in the dropdown at top left
+3. If you don't see it:
+   - Click "File" → "Add Local Repository"
+   - Browse to: `/Users/gauthii/Dropbox/_WORKING ON THESE/NewWebSite`
+   - Click "Add"
 
 ### Step 2: Review Your Changes
 
@@ -236,10 +270,17 @@ Don't panic! Git tracks everything.
 ### Add a Lab Photo
 
 1. Put photo in `assets/images/`
-2. In your markdown file:
+2. In your markdown file, use this format:
    ```markdown
-   ![Description](assets/images/photo.jpg)
+   <img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Description">
    ```
+
+   Or for markdown syntax:
+   ```markdown
+   ![Description]({{ site.baseurl }}/assets/images/photo.jpg)
+   ```
+
+   **CRITICAL:** Always include `{{ site.baseurl }}` before the path!
 
 ### Change Colors
 
@@ -254,9 +295,11 @@ Don't panic! Git tracks everything.
 2. Find the `<nav>` section
 3. Add a new link:
    ```html
-   <li><a href="/newpage.html">New Page</a></li>
+   <li><a href="{{ site.baseurl }}/newpage/">New Page</a></li>
    ```
 4. Create `newpage.md` with content
+
+   **IMPORTANT:** Navigation links also need `{{ site.baseurl }}`!
 
 ### Add a News Section
 
@@ -333,9 +376,18 @@ bundle exec jekyll serve
 ### Changes don't appear on live site
 
 - Wait 30-60 seconds after pushing
-- Check GitHub repository - do you see your changes?
-- Hard refresh browser (Cmd+Shift+R)
-- Check GitHub Actions tab for build errors
+- Hard refresh browser (Cmd+Shift+R) to clear cache
+- Check if you pushed: In GitHub Desktop, it should say "No local changes"
+- Visit https://github.com/isabelzaza/opl-website to verify your changes are there
+- Check build status: https://github.com/isabelzaza/opl-website/actions
+  - Should show a green checkmark ✓
+
+### Images showing as broken on live site
+
+- Make sure you used `{{ site.baseurl }}` before the path
+- Check the image file exists in `assets/images/`
+- File names are case-sensitive: `Photo.jpg` ≠ `photo.jpg`
+- After fixing, commit and push again
 
 ### GitHub Desktop doesn't see changes
 
