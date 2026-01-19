@@ -311,16 +311,96 @@ a {
 
 // Responsive
 @media (max-width: 768px) {
-  .site-title {
-    font-size: 2rem !important;
+  // Reduce base font size on mobile
+  html {
+    font-size: 14px;
   }
 
+  body {
+    font-size: 1rem; // 14px on mobile instead of 18px
+  }
+
+  // Reduce heading sizes
+  h1 {
+    font-size: 1.75rem; // 28px instead of 40px
+  }
+
+  h2 {
+    font-size: 1.5rem; // 24px instead of 32px
+    margin-top: $spacing-md;
+  }
+
+  h3 {
+    font-size: 1.25rem; // 20px instead of 24px
+  }
+
+  h4 {
+    font-size: 1.1rem;
+  }
+
+  .site-title {
+    font-size: 1.5rem !important; // Even smaller on mobile
+  }
+
+  .site-subtitle {
+    font-size: 0.9rem !important;
+  }
+
+  // Reduce header padding
+  .site-header {
+    padding: $spacing-md 0;
+    margin-bottom: $spacing-lg;
+  }
+
+  .header-content {
+    padding: $spacing-md;
+  }
+
+  // Adjust navigation for mobile
+  .site-nav {
+    padding: $spacing-sm $spacing-md;
+
+    ul {
+      flex-direction: column;
+      gap: 0;
+    }
+
+    li {
+      width: 100%;
+      text-align: center;
+    }
+
+    a {
+      padding: $spacing-sm;
+      font-size: 0.95rem;
+    }
+  }
+
+  // People grid to single column
   .people-grid {
     grid-template-columns: 1fr;
+    gap: $spacing-md;
   }
 
-  .site-nav ul {
-    flex-direction: column;
-    gap: 0;
+  // Content wrapper padding
+  .content-wrapper {
+    padding: 0 $spacing-md;
+  }
+
+  // Reduce spacing
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  // Publication entries
+  .publication {
+    .pub-title {
+      font-size: 1rem;
+    }
+
+    .pub-authors,
+    .pub-venue {
+      font-size: 0.85rem;
+    }
   }
 }
