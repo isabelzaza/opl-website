@@ -476,14 +476,19 @@ a {
     font-size: 0.9rem !important;
   }
 
-  // Reduce header padding
+  // Reduce header padding and improve banner
   .site-header {
-    padding: $spacing-md 0;
-    margin-bottom: $spacing-lg;
+    padding: $spacing-sm 0;
+    margin-bottom: $spacing-md;
+
+    &::before {
+      background-size: 300%; // Make background texture more visible on mobile
+      opacity: 0.5;
+    }
   }
 
   .header-content {
-    padding: $spacing-md;
+    padding: $spacing-sm;
   }
 
   // Hamburger menu for mobile
@@ -532,6 +537,11 @@ a {
     }
   }
 
+  // Main content reduced padding
+  .main-content {
+    padding: $spacing-md $spacing-sm;
+  }
+
   // People grid to single column
   .people-grid {
     grid-template-columns: 1fr;
@@ -540,12 +550,47 @@ a {
 
   // Content wrapper padding
   .content-wrapper {
-    padding: 0 $spacing-md;
+    padding: 0 $spacing-sm;
   }
 
-  // Reduce spacing
+  // Reduce spacing and fix image sizes
+  .hero {
+    padding: $spacing-sm 0;
+    margin-bottom: $spacing-sm;
+  }
+
   .hero h1 {
     font-size: 1.5rem;
+  }
+
+  // Slideshow images - make much smaller on mobile
+  .slideshow {
+    max-width: 100%;
+  }
+
+  .slide img {
+    max-width: 95% !important;
+    width: 95% !important;
+    height: auto;
+    border-width: 4px; // Thinner border on mobile
+  }
+
+  .slide .caption {
+    font-size: 0.85rem;
+    margin-top: $spacing-sm;
+    margin-bottom: $spacing-sm;
+  }
+
+  // General image sizing on mobile
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  // Person card images
+  .person-card img {
+    max-width: 120px;
+    height: 120px;
   }
 
   // Publication entries
