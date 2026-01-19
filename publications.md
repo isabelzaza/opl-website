@@ -7,11 +7,11 @@ title: Publications
 
 <div class="content-wrapper">
 
-<strong>Copyright Notice:</strong> The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Single copies of any article or chapter can be downloaded and printed only for the reader's personal research and study. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted or redistributed in any electronic or printed form without the explicit permission of the copyright holder.
+<p style="font-size: 0.85rem;"><strong>Copyright Notice:</strong> The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Single copies of any article or chapter can be downloaded and printed only for the reader's personal research and study. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted or redistributed in any electronic or printed form without the explicit permission of the copyright holder.</p>
 
-<em>If you are interested in using one of the measures we designed, like the Vanderbilt Expertise Test (VET) or the Vanderbilt Holistic Processing Test-Faces (VHPT-F), or the Semantic Vanderbilt Expertise Test (SVET), please consult our [Resources](/resources/) section.</em>
+<p><em>If you are interested in using one of the measures we designed, like the Vanderbilt Expertise Test (VET) or the Vanderbilt Holistic Processing Test-Faces (VHPT-F), or the Semantic Vanderbilt Expertise Test (SVET), please consult our <a href="{{ site.baseurl }}/resources/">Resources</a> section.</em></p>
 
----
+<p>Dr. Gauthier has been publishing research in psychology since 1997. The lab produces an average of 8-10 peer-reviewed papers per year. Early work focused on perceptual expertise and the nature of object representations, while in more recent years, the emphasis has shifted to individual differences in various aspects of high-level vision, including domain-general object recognition abilities, ensemble perception, and the application of visual abilities to real-world tasks such as food recognition and AI face detection. For a complete list of publications and citation metrics, visit <a href="https://scholar.google.com/citations?user=zMFcCjEAAAAJ&hl=en&oi=ao" target="_blank">Dr. Gauthier's Google Scholar profile</a>.</p>
 
 <div class="publications-list">
 

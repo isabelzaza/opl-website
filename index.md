@@ -11,7 +11,7 @@ title: Home
   <div class="slideshow">
     <div class="slide">
       <img src="{{ site.baseurl }}/assets/images/lab-photo-2025.jpg" alt="OPL Lab Group 2025">
-      <div class="caption">OPL Lab Group 2025</div>
+      <div class="caption">OPL and friends, 2025</div>
     </div>
     <div class="slide">
       <img src="{{ site.baseurl }}/assets/images/painting-texture.jpg" alt="Where the magic bears live by Matt Crump">
@@ -22,7 +22,7 @@ title: Home
 
 <div class="content-wrapper" markdown="1" style="margin-bottom: 0.5rem;">
 
-OPL is Dr. Isabel Gauthier's research group at Vanderbilt University, located in Wilson Hall on the Vanderbilt University Campus in Nashville, [located on native Cherokee, Choctaw, Chickasaw, Creek and Shawnee land](https://native-land.ca/){: target="_blank"}. We study how humans learn to categorize, recognize and represent objects in different domains. We are particularly interested in the acquisition of perceptual expertise, reflected by unusually good performance that generalizes to objects in an entire category (e.g., letters, faces, birds, cars, musical notation...). Expert performance is generally quite automatic and often accompanied by a loss of flexibility in the perceptual strategies that experts can apply to their trained domain. We investigate the structure of abilities supporting both single object recognition and ensemble perception. Examples of current projects include how individual differences in domain-general object recognition are influenced by long term experience, how object recognition abilities relate to episodic memory or statistical learning and abilities in food recognition. We are also exploring the structural and functional correlates of visual abilities in the brain.
+OPL is Dr. Isabel Gauthier's research group at Vanderbilt University, located in Wilson Hall on the Vanderbilt University Campus in Nashville, [located on native Cherokee, Choctaw, Chickasaw, Creek and Shawnee land](https://native-land.ca/){: target="_blank"}. We study how humans learn to categorize, recognize and represent objects in different domains. We are particularly interested in the acquisition of perceptual expertise, reflected by unusually good performance that generalizes to objects in an entire category (e.g., letters, faces, birds, cars, musical notation...). Expert performance is generally quite automatic and often accompanied by a loss of flexibility in the perceptual strategies that experts can apply to their trained domain. We investigate the structure of abilities supporting both single object recognition and ensemble perception. Examples of current projects include exploring how domain-general object recognition supports difficult perceptual judgments such as AI face detection, how object recognition abilities relate to episodic memory or statistical learning and abilities in food recognition, and how visual abilities relate to how we talk about images. We are also exploring the structural and functional correlates of visual abilities in the brain.
 
 </div>
 

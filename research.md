@@ -17,10 +17,11 @@ OPL is Dr. Isabel Gauthier's research group at Vanderbilt University, located in
 
 <h2>Current Projects</h2>
 
-- Domain-general object recognition and long-term experience
+- Domain-general object recognition and AI face detection
 - Object recognition abilities and episodic memory
 - Statistical learning and visual abilities
 - Food recognition abilities
+- How visual abilities relate to how we talk about images
 - Structural and functional correlates of visual abilities in the brain
 - Holistic processing across different object categories
 
