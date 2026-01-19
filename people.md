@@ -82,6 +82,7 @@ title: People
 
 <h2>Other Collaborators</h2>
 
+- [Andrew Tomarken](https://as.vanderbilt.edu/psychology/bio/andrew-tomarken){:target="_blank"}
 - [Nurit Gronau](https://en-social-sciences.tau.ac.il/profile/nuritg){:target="_blank"}
 - [Vladimir Sloutsky](https://psychology.osu.edu/people/sloutsky.1){:target="_blank"}
 - [Oliver Wilhelm](https://www.uni-ulm.de/en/owilhelm/){:target="_blank"}
