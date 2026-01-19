@@ -1,0 +1,40 @@
+// Color palette extracted from "Where the magic bears live" by Matt Crump
+
+// Primary colors
+$sky-blue: #7CB9E8;
+$sky-blue-light: #A8D8F0;
+$sky-blue-dark: #5A9FD4;
+
+// Secondary colors
+$warm-pink: #FFB3D9;
+$warm-pink-light: #FFD6EC;
+$warm-pink-dark: #FF8FC4;
+
+// Accent colors
+$gentle-yellow: #FFE66D;
+$gentle-yellow-light: #FFF4B3;
+$gentle-yellow-dark: #FFD93D;
+
+$soft-green: #A8E6A3;
+$soft-green-light: #C7F2C3;
+$soft-green-dark: #86D180;
+
+$lavender: #D4BBFF;
+$lavender-light: #E8DEFF;
+$lavender-dark: #BFA3F0;
+
+// Neutrals
+$charcoal: #4A4A4A;
+$soft-gray: #7A7A7A;
+$light-gray: #E5E5E5;
+$cream: #FFFEF9;
+$white: #FFFFFF;
+
+// Semantic colors
+$primary: $sky-blue;
+$secondary: $warm-pink;
+$accent: $gentle-yellow;
+$text-color: $charcoal;
+$bg-color: $cream;
+$link-color: $sky-blue-dark;
+$link-hover: $warm-pink-dark;

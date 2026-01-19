@@ -1,0 +1,621 @@
+---
+---
+
+// Color palette extracted from "Where the magic bears live" by Matt Crump
+
+// Primary colors
+$sky-blue: #7CB9E8;
+$sky-blue-light: #A8D8F0;
+$sky-blue-dark: #5A9FD4;
+
+// Secondary colors
+$warm-pink: #FFB3D9;
+$warm-pink-light: #FFD6EC;
+$warm-pink-dark: #FF8FC4;
+
+// Accent colors
+$gentle-yellow: #FFE66D;
+$gentle-yellow-light: #FFF4B3;
+$gentle-yellow-dark: #FFD93D;
+
+$soft-green: #A8E6A3;
+$soft-green-light: #C7F2C3;
+$soft-green-dark: #86D180;
+
+$lavender: #D4BBFF;
+$lavender-light: #E8DEFF;
+$lavender-dark: #BFA3F0;
+
+// Neutrals
+$charcoal: #4A4A4A;
+$soft-gray: #7A7A7A;
+$light-gray: #E5E5E5;
+$cream: #FFFEF9;
+$white: #FFFFFF;
+
+// Semantic colors
+$primary: $sky-blue;
+$secondary: $warm-pink;
+$accent: $gentle-yellow;
+$text-color: $charcoal;
+$bg-color: $cream;
+$link-color: $sky-blue-dark;
+$link-hover: $warm-pink-dark;
+
+// Typography
+$font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: Georgia, "Times New Roman", serif;
+$font-base: $font-family-sans;
+$font-headings: $font-family-sans;
+
+// Font sizes
+$font-size-base: 1.125rem; // 18px for better readability
+$font-size-small: 0.875rem;
+$font-size-h1: 2.5rem;
+$font-size-h2: 2rem;
+$font-size-h3: 1.5rem;
+$font-size-h4: 1.25rem;
+
+// Spacing
+$spacing-unit: 1.5rem;
+$spacing-xs: $spacing-unit * 0.25;
+$spacing-sm: $spacing-unit * 0.5;
+$spacing-md: $spacing-unit;
+$spacing-lg: $spacing-unit * 2;
+$spacing-xl: $spacing-unit * 3;
+
+// Layout
+$max-width: 1200px;
+$content-width: 800px;
+$border-radius: 12px;
+$border-radius-sm: 6px;
+
+// Transitions
+$transition-speed: 0.3s;
+
+// Reset and base styles
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-base;
+  font-size: $font-size-base;
+  line-height: 1.7;
+  color: $text-color;
+  background-color: $bg-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-headings;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: $spacing-md;
+  color: $charcoal;
+}
+
+h1 {
+  font-size: $font-size-h1;
+  color: $sky-blue-dark;
+}
+
+h2 {
+  font-size: $font-size-h2;
+  color: $sky-blue-dark;
+  margin-top: $spacing-lg;
+
+  &::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: linear-gradient(to right, $warm-pink, $lavender);
+    border-radius: 2px;
+    margin-bottom: $spacing-sm;
+  }
+}
+
+h3 {
+  font-size: $font-size-h3;
+  color: $charcoal;
+  margin-top: $spacing-lg;
+}
+
+h4 {
+  font-size: $font-size-h4;
+}
+
+p {
+  margin-bottom: $spacing-md;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  transition: color $transition-speed ease;
+
+  &:hover {
+    color: $link-hover;
+  }
+}
+
+// Header
+.site-header {
+  background: linear-gradient(135deg, $sky-blue-light 0%, $lavender-light 100%);
+  padding: $spacing-lg 0;
+  margin-bottom: 4px;
+  position: relative;
+  overflow: hidden;
+
+  // Dark overlay for text contrast
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.2) 100%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/assets/images/painting-texture.jpg');
+    background-size: 150%;
+    background-position: center 20%;
+    opacity: 0.7;
+    z-index: 0;
+    filter: saturate(1.8) brightness(1.2) contrast(1.1);
+  }
+
+  .header-content {
+    position: relative;
+    z-index: 2;
+    max-width: $max-width;
+    margin: 0 auto;
+    padding: 0 $spacing-md;
+  }
+
+  .site-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+    color: $white;
+    text-shadow: 3px 3px 8px rgba(0,0,0,0.5), 1px 1px 2px rgba(0,0,0,0.8);
+    margin-bottom: $spacing-sm;
+  }
+
+  .site-subtitle {
+    font-size: 1.25rem;
+    color: $white;
+    font-weight: 400;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.5);
+  }
+
+  // Page-specific painting sections
+  &.page-home::before {
+    background-position: center 15%;
+    background-size: 140%;
+  }
+
+  &.page-research::before {
+    background-position: 70% 40%;
+    background-size: 200%;
+  }
+
+  &.page-people::before {
+    background-position: 50% 65%;
+    background-size: 180%;
+  }
+
+  &.page-publications::before {
+    background-position: 20% 30%;
+    background-size: 220%;
+  }
+
+  &.page-resources::before {
+    background-position: 80% 50%;
+    background-size: 160%;
+  }
+
+  &.page-news::before {
+    background-position: 40% 25%;
+    background-size: 170%;
+  }
+}
+
+// Navigation
+.site-nav {
+  background-color: $white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  nav {
+    max-width: $max-width;
+    margin: 0 auto;
+    padding: 0 $spacing-md;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: $spacing-sm;
+    padding: $spacing-sm 0;
+  }
+
+  a {
+    display: block;
+    padding: $spacing-sm $spacing-md;
+    color: $charcoal;
+    font-weight: 500;
+    border-radius: $border-radius-sm;
+    transition: all $transition-speed ease;
+
+    &:hover, &.active {
+      background-color: $sky-blue-light;
+      color: $sky-blue-dark;
+    }
+  }
+}
+
+// Main content
+.main-content {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: $spacing-xl $spacing-md;
+}
+
+.content-wrapper {
+  max-width: $content-width;
+  margin: 0 auto;
+}
+
+// Hero section
+.hero {
+  text-align: center;
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+
+  .hero-image {
+    max-width: 100%;
+    border-radius: $border-radius;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    margin-bottom: $spacing-lg;
+  }
+}
+
+// Slideshow container
+.slideshow-container {
+  margin: 0.5rem 0;
+  text-align: center;
+}
+
+.slideshow {
+  position: relative;
+  width: 100%;
+}
+
+.slide {
+  width: 100%;
+  opacity: 0;
+  animation: fade 12s infinite;
+
+  &:first-child {
+    animation-delay: 0s;
+  }
+
+  &:nth-child(2) {
+    animation-delay: 6s;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  img {
+    max-width: 85%;
+    height: auto;
+    border-radius: $border-radius;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+    border: 8px solid $white;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .caption {
+    margin-top: $spacing-md;
+    margin-bottom: $spacing-md;
+    font-style: italic;
+    color: $soft-gray;
+    font-size: 0.95rem;
+  }
+}
+
+@keyframes fade {
+  0% { opacity: 0; }
+  8% { opacity: 1; }
+  42% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+// Painting showcase (keeping for backward compatibility)
+.painting-showcase {
+  margin: $spacing-xl 0;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    border-radius: $border-radius;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+    border: 8px solid $white;
+  }
+
+  .caption {
+    margin-top: $spacing-md;
+    font-style: italic;
+    color: $soft-gray;
+    font-size: 0.95rem;
+  }
+}
+
+// Painting decorative elements
+.painting-accent {
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    background-image: url('/assets/images/painting-texture.jpg');
+    background-size: 200%;
+    opacity: 0.08;
+    pointer-events: none;
+    z-index: -1;
+    border-radius: $border-radius;
+  }
+
+  &.sky {
+    &::after {
+      background-position: center 10%;
+    }
+  }
+
+  &.characters {
+    &::after {
+      background-position: center 60%;
+    }
+  }
+
+  &.mountains {
+    &::after {
+      background-position: right 40%;
+    }
+  }
+}
+
+// Image placeholder using painting character
+.img-placeholder {
+  background: linear-gradient(135deg, $warm-pink-light 0%, $sky-blue-light 100%);
+  border-radius: $border-radius;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  min-height: 200px;
+
+  &::before {
+    content: '';
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background-image: url('/assets/images/painting-texture.jpg');
+    background-size: 400%;
+    background-position: 60% 65%;
+    opacity: 0.6;
+    filter: saturate(1.3);
+  }
+
+  .placeholder-text {
+    position: relative;
+    z-index: 1;
+    color: $white;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  }
+}
+
+// Cards
+.card {
+  background: $white;
+  border-radius: $border-radius;
+  padding: $spacing-lg;
+  margin-bottom: $spacing-lg;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform $transition-speed ease, box-shadow $transition-speed ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  }
+}
+
+// People grid
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: $spacing-lg;
+  margin: $spacing-lg 0;
+}
+
+.person-card {
+  @extend .card;
+  text-align: center;
+  padding: $spacing-md;
+
+  img, .img-placeholder {
+    width: 100%;
+    max-width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto $spacing-sm;
+    border: 3px solid $sky-blue-light;
+  }
+
+  .img-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  a {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: $sky-blue-dark;
+    margin-bottom: 0.25rem;
+    display: block;
+  }
+
+  .title {
+    font-size: 0.9rem;
+    color: $soft-gray;
+    margin-bottom: 0.25rem;
+    line-height: 1.4;
+  }
+}
+
+// Publications
+.publications-list {
+  .publication {
+    margin-bottom: $spacing-sm;
+    line-height: 1.4;
+
+    .pub-title {
+      font-weight: 600;
+      color: $charcoal;
+      display: inline;
+    }
+
+    .pub-authors {
+      color: $soft-gray;
+      font-size: 0.95rem;
+      display: inline;
+    }
+
+    .pub-venue {
+      font-style: italic;
+      color: $soft-gray;
+      font-size: 0.95rem;
+      display: inline;
+    }
+
+    .pub-title::after {
+      content: ' ';
+    }
+
+    .pub-authors::after {
+      content: ' ';
+    }
+  }
+}
+
+// Decorative elements
+.accent-blob {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.1;
+  pointer-events: none;
+
+  &.blob-1 {
+    width: 300px;
+    height: 300px;
+    background: $warm-pink;
+    top: -100px;
+    right: -100px;
+  }
+
+  &.blob-2 {
+    width: 200px;
+    height: 200px;
+    background: $gentle-yellow;
+    bottom: -50px;
+    left: -50px;
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $charcoal;
+  color: $white;
+  padding: $spacing-lg $spacing-md;
+  margin-top: $spacing-xl;
+
+  .footer-content {
+    max-width: $max-width;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  a {
+    color: $sky-blue-light;
+
+    &:hover {
+      color: $warm-pink-light;
+    }
+  }
+}
+
+// Alumni list
+.alumni-list {
+  columns: 2;
+  column-gap: 2rem;
+
+  ul {
+    margin: 0;
+    padding-left: $spacing-md;
+  }
+
+  li {
+    break-inside: avoid;
+    margin-bottom: $spacing-xs;
+  }
+}
+
+// Responsive
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 2rem !important;
+  }
+
+  .people-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .site-nav ul {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .alumni-list {
+    columns: 1;
+  }
+}

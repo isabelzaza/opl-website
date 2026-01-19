@@ -1,0 +1,35 @@
+{% if page.url == "/" %}
+  {% assign page_class = "page-home" %}
+{% elsif page.url contains "research" %}
+  {% assign page_class = "page-research" %}
+{% elsif page.url contains "people" %}
+  {% assign page_class = "page-people" %}
+{% elsif page.url contains "publications" %}
+  {% assign page_class = "page-publications" %}
+{% elsif page.url contains "news" %}
+  {% assign page_class = "page-news" %}
+{% elsif page.url contains "resources" %}
+  {% assign page_class = "page-resources" %}
+{% else %}
+  {% assign page_class = "page-home" %}
+{% endif %}
+
+<header class="site-header {{ page_class }}">
+  <div class="header-content">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <p class="site-subtitle">{{ site.description }}</p>
+  </div>
+</header>
+
+<div class="site-nav">
+  <nav>
+    <ul>
+      <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+      <li><a href="/research/" {% if page.url contains "research" %}class="active"{% endif %}>Research</a></li>
+      <li><a href="/people/" {% if page.url contains "people" %}class="active"{% endif %}>People</a></li>
+      <li><a href="/publications/" {% if page.url contains "publications" %}class="active"{% endif %}>Publications</a></li>
+      <li><a href="/news/" {% if page.url contains "news" %}class="active"{% endif %}>News</a></li>
+      <li><a href="/resources/" {% if page.url contains "resources" %}class="active"{% endif %}>Resources</a></li>
+    </ul>
+  </nav>
+</div>
