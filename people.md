@@ -10,7 +10,7 @@ title: People
     <img src="{{ site.baseurl }}/assets/images/isabel-gauthier.png" alt="Isabel Gauthier">
     <a href="https://scholar.google.com/citations?user=zMFcCjEAAAAJ&hl=en&oi=ao">Isabel Gauthier</a>
     <div class="title">David K Wilson Professor of Psychology<br>
-    Editor, JEP:HPP • Vice Department Chair</div>
+    Editor, <a href="https://www.apa.org/pubs/journals/xhp" target="_blank" rel="noopener">JEP:HPP</a> • Vice Department Chair</div>
     <p><a href="https://www.dropbox.com/scl/fi/0ujaqlhmzjv7hyh932tfi/Gauthier_cv.pdf?rlkey=8e7isg6uw3gqpqhxojc0q63sx&dl=0">CV</a></p>
   </div>
 
@@ -35,7 +35,7 @@ title: People
   <div class="person-card">
     <img src="{{ site.baseurl }}/assets/images/magen-speegle.jpg" alt="Magen Speegle">
     <a href="https://www.linkedin.com/in/magen-speegle-18718420/">Magen Speegle</a>
-    <div class="title">Peer Review Coordinator at JEP:HPP</div>
+    <div class="title">Peer Review Coordinator at <a href="https://www.apa.org/pubs/journals/xhp" target="_blank" rel="noopener">JEP:HPP</a></div>
   </div>
 </div>
 
