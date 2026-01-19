@@ -309,6 +309,67 @@ a {
   }
 }
 
+// Hamburger menu button (hidden on desktop)
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: $spacing-sm;
+  z-index: 101;
+
+  &:focus {
+    outline: 2px solid $sky-blue-dark;
+  }
+
+  .hamburger-box {
+    width: 30px;
+    height: 24px;
+    display: inline-block;
+    position: relative;
+  }
+
+  .hamburger-inner {
+    display: block;
+    top: 50%;
+    margin-top: -2px;
+
+    &, &::before, &::after {
+      width: 30px;
+      height: 3px;
+      background-color: $charcoal;
+      border-radius: 2px;
+      position: absolute;
+      transition: transform 0.15s ease;
+    }
+
+    &::before, &::after {
+      content: "";
+      display: block;
+    }
+
+    &::before {
+      top: -8px;
+    }
+
+    &::after {
+      bottom: -8px;
+    }
+  }
+
+  &.is-active .hamburger-inner {
+    transform: rotate(45deg);
+
+    &::before {
+      transform: rotate(-90deg) translateX(-8px);
+    }
+
+    &::after {
+      opacity: 0;
+    }
+  }
+}
+
 // Responsive
 @media (max-width: 768px) {
   // Reduce base font size on mobile
@@ -320,22 +381,22 @@ a {
     font-size: 1rem; // 14px on mobile instead of 18px
   }
 
-  // Reduce heading sizes
+  // Reduce heading sizes more aggressively
   h1 {
-    font-size: 1.75rem; // 28px instead of 40px
+    font-size: 1.5rem; // 21px instead of 40px
   }
 
   h2 {
-    font-size: 1.5rem; // 24px instead of 32px
+    font-size: 1.25rem; // 17.5px instead of 32px
     margin-top: $spacing-md;
   }
 
   h3 {
-    font-size: 1.25rem; // 20px instead of 24px
+    font-size: 1.1rem; // 15.4px instead of 24px
   }
 
   h4 {
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 
   .site-title {
@@ -356,23 +417,49 @@ a {
     padding: $spacing-md;
   }
 
+  // Hamburger menu for mobile
+  .hamburger {
+    display: block;
+    margin: $spacing-sm auto;
+  }
+
   // Adjust navigation for mobile
   .site-nav {
     padding: $spacing-sm $spacing-md;
 
+    nav {
+      position: relative;
+    }
+
     ul {
+      display: none; // Hidden by default on mobile
       flex-direction: column;
       gap: 0;
+      background-color: $white;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      border-radius: $border-radius-sm;
+      margin-top: $spacing-sm;
+      overflow: hidden;
+
+      &.is-active {
+        display: flex; // Show when hamburger is clicked
+      }
     }
 
     li {
       width: 100%;
       text-align: center;
+      border-bottom: 1px solid $light-gray;
+
+      &:last-child {
+        border-bottom: none;
+      }
     }
 
     a {
-      padding: $spacing-sm;
+      padding: $spacing-md;
       font-size: 0.95rem;
+      display: block;
     }
   }
 

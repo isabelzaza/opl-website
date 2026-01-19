@@ -39,10 +39,6 @@ title: People
   </div>
 </div>
 
-<div class="content-wrapper" style="margin-top: 2rem; margin-bottom: 2rem;">
-The OPL holds its weekly lab meetings with our friends from the <a href="http://catlab.psy.vanderbilt.edu/" target="_blank" rel="noopener">CATlab</a>.
-</div>
-
 <h2>Research Assistants</h2>
 
 - Macire Kebe

@@ -23,7 +23,12 @@
 
 <div class="site-nav">
   <nav>
-    <ul>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <ul id="nav-menu">
       <li><a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
       <li><a href="{{ site.baseurl }}/research/" {% if page.url contains "research" %}class="active"{% endif %}>Research</a></li>
       <li><a href="{{ site.baseurl }}/people/" {% if page.url contains "people" %}class="active"{% endif %}>People</a></li>
@@ -33,3 +38,29 @@
     </ul>
   </nav>
 </div>
+
+<script>
+  // Mobile menu toggle
+  (function() {
+    var hamburger = document.getElementById('hamburger');
+    var menu = document.getElementById('nav-menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        var isActive = this.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+        this.setAttribute('aria-expanded', isActive);
+      });
+
+      // Close menu when clicking a link
+      var links = menu.querySelectorAll('a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function() {
+          hamburger.classList.remove('is-active');
+          menu.classList.remove('is-active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  })();
+</script>

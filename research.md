@@ -7,6 +7,8 @@ title: Research
 
 <div class="content-wrapper">
 
+The OPL holds its weekly lab meetings with our friends from the <a href="http://catlab.psy.vanderbilt.edu/" target="_blank" rel="noopener">CATlab</a>.
+
 <h2>Individual Differences in Visual Cognition</h2>
 
 We investigate the structure of abilities supporting both single object recognition and ensemble perception. Examples of current projects include how individual differences in domain-general object recognition are influenced by long term experience, how object recognition abilities relate to episodic memory or statistical learning and abilities in food recognition. We are also exploring the structural and functional correlates of visual abilities in the brain.
