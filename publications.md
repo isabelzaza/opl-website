@@ -36,7 +36,7 @@ Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically
 <h2>2026</h2>
 
 <div class="publication">
-Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>, 11.1-11.30. <a href="https://www.dropbox.com/scl/fi/v97kmsnxjjztjev56k0ho/SmithsonGauthierAR2026.pdf?rlkey=6eqs7c5psv4uwdrjown3qc7wn&dl=0">pdf</a>
+Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>, 11.1-11.30. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053">pdf</a>
 </div>
 
 <div class="publication">
