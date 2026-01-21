@@ -1,0 +1,66 @@
+{% if page.url == "/" %}
+  {% assign page_class = "page-home" %}
+{% elsif page.url contains "research" %}
+  {% assign page_class = "page-research" %}
+{% elsif page.url contains "people" %}
+  {% assign page_class = "page-people" %}
+{% elsif page.url contains "publications" %}
+  {% assign page_class = "page-publications" %}
+{% elsif page.url contains "news" %}
+  {% assign page_class = "page-news" %}
+{% elsif page.url contains "resources" %}
+  {% assign page_class = "page-resources" %}
+{% else %}
+  {% assign page_class = "page-home" %}
+{% endif %}
+
+<header class="site-header {{ page_class }}">
+  <div class="header-content">
+    <h1 class="site-title">{{ site.title }}</h1>
+    <p class="site-subtitle">{{ site.description }}</p>
+  </div>
+</header>
+
+<div class="site-nav">
+  <nav>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <ul id="nav-menu">
+      <li><a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+      <li><a href="{{ site.baseurl }}/research/" {% if page.url contains "research" %}class="active"{% endif %}>Research</a></li>
+      <li><a href="{{ site.baseurl }}/people/" {% if page.url contains "people" %}class="active"{% endif %}>People</a></li>
+      <li><a href="{{ site.baseurl }}/publications/" {% if page.url contains "publications" %}class="active"{% endif %}>Publications</a></li>
+      <li><a href="{{ site.baseurl }}/news/" {% if page.url contains "news" %}class="active"{% endif %}>News</a></li>
+      <li><a href="{{ site.baseurl }}/resources/" {% if page.url contains "resources" %}class="active"{% endif %}>Resources</a></li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+  // Mobile menu toggle
+  (function() {
+    var hamburger = document.getElementById('hamburger');
+    var menu = document.getElementById('nav-menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        var isActive = this.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+        this.setAttribute('aria-expanded', isActive);
+      });
+
+      // Close menu when clicking a link
+      var links = menu.querySelectorAll('a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function() {
+          hamburger.classList.remove('is-active');
+          menu.classList.remove('is-active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  })();
+</script>

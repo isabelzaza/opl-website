@@ -1,0 +1,36 @@
+# Site settings
+title: Object Perception Lab
+description: >-
+  Dr. Isabel Gauthier's research group at Vanderbilt University studying
+  perceptual expertise, object recognition, and visual cognition.
+baseurl: "/opl-website" # the subpath of your site, e.g. /blog
+url: "http://gauthier.psy.vanderbilt.edu" # your site URL
+
+# Author
+author:
+  name: Isabel Gauthier
+  title: David K Wilson Professor of Psychology
+  email: isabel.gauthier@vanderbilt.edu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - "Where the magic bears live.jpg"
+  - README.md
+  - DEPLOYMENT.md
+  - EDITING.md
