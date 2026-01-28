@@ -22,10 +22,6 @@ Mueller, M. & Gauthier, I. (submitted). <strong>The Effect of Color Filters on F
 </div>
 
 <div class="publication">
-Gauthier, I., and Smithson, C.J.R. (submitted). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong>
-</div>
-
-<div class="publication">
 Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (submitted). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
 </div>
 
@@ -37,6 +33,10 @@ Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically
 
 <div class="publication">
 Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>, 11.1-11.30. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053">pdf</a>
+</div>
+
+<div class="publication">
+Gauthier, I. and Smithson, C.J.R. (in press). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong> <em>Cognition</em>. <a href="https://www.dropbox.com/scl/fi/0ujaqlhmzjv7hyh932tfi/Gauthier_cv.pdf?rlkey=8e7isg6uw3gqpqhxojc0q63sx&dl=0" target="_blank">pdf</a>
 </div>
 
 <div class="publication">
