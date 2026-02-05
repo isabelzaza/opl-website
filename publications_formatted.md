@@ -37,6 +37,10 @@ Gronau, N., Smithson, C.J.R., & Gauthier, I. (in press). <strong>Object recognit
 Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (submitted). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
 </div>
 
+<div class="publication">
+Gauthier, I. (submitted). <strong>Hyperrealism in AI face detection is context-dependent and predicted by object recognition ability.</strong>
+</div>
+
 <h2>2026</h2>
 
 <div class="publication">

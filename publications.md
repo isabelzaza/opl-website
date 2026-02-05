@@ -29,6 +29,10 @@ Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (submitted). <strong>
 Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically in Ensemble Judgments.</strong>
 </div>
 
+<div class="publication">
+Gauthier, I. (submitted). <strong>Hyperrealism in AI face detection is context-dependent and predicted by object recognition ability.</strong>
+</div>
+
 <h2>2026</h2>
 
 <div class="publication">
