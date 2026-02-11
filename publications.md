@@ -26,6 +26,10 @@ Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (submitted). <strong>
 </div>
 
 <div class="publication">
+Smithson, C.J.R., Tomarken, A.J. & Gauthier, I. (submitted). <strong>Domain-general object encoding ability explains shared variance between perception and memory factors.</strong> <a href="https://osf.io/preprints/psyarxiv/yh324_v1" target="_blank">pre-peer review version</a>
+</div>
+
+<div class="publication">
 Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically in Ensemble Judgments.</strong>
 </div>
 
@@ -48,7 +52,7 @@ Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity 
 </div>
 
 <div class="publication">
-Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition ability predicts episodic location memory, enhanced by meaningfulness.</strong> <em>Psychological Research</em>. <a href="https://osf.io/qx5th?view_only=be6bc532f4fa490d98e81e7eb1d8eb86" target="_blank">pre-peer review version</a>
+Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition ability predicts episodic location memory, enhanced by meaningfulness.</strong> <em>Psychological Research</em>. <a href="https://link.springer.com/article/10.1007/s00426-026-02248-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260207&utm_content=10.1007%2Fs00426-026-02248-y" target="_blank">published version</a>
 </div>
 
 <h2>2025</h2>
