@@ -44,7 +44,7 @@ Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recogni
 </div>
 
 <div class="publication">
-Gauthier, I. and Smithson, C.J.R. (in press). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong> <em>Cognition</em>. <a href="https://www.dropbox.com/scl/fi/0ujaqlhmzjv7hyh932tfi/Gauthier_cv.pdf?rlkey=8e7isg6uw3gqpqhxojc0q63sx&dl=0" target="_blank">pdf</a>
+Gauthier, I. and Smithson, C.J.R. (in press). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong> <em>Cognition</em>. <a href="https://authors.elsevier.com/sd/article/S0010-0277(26)00025-9" target="_blank">pdf</a>
 </div>
 
 <div class="publication">
