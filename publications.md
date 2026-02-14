@@ -22,10 +22,6 @@ Mueller, M. & Gauthier, I. (submitted). <strong>The Effect of Color Filters on F
 </div>
 
 <div class="publication">
-Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (submitted). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
-</div>
-
-<div class="publication">
 Smithson, C.J.R., Tomarken, A.J. & Gauthier, I. (submitted). <strong>Domain-general object encoding ability explains shared variance between perception and memory factors.</strong> <a href="https://osf.io/preprints/psyarxiv/yh324_v1" target="_blank">pre-peer review version</a>
 </div>
 
@@ -53,6 +49,10 @@ Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity 
 
 <div class="publication">
 Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition ability predicts episodic location memory, enhanced by meaningfulness.</strong> <em>Psychological Research</em>. <a href="https://link.springer.com/article/10.1007/s00426-026-02248-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260207&utm_content=10.1007%2Fs00426-026-02248-y" target="_blank">published version</a>
+</div>
+
+<div class="publication">
+Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (in press). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <em>Journal of Experimental Psychology: General</em>. <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
 </div>
 
 <h2>2025</h2>
