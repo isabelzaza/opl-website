@@ -44,7 +44,7 @@ Gauthier, I. and Smithson, C.J.R. (in press). <strong>Attention control contribu
 </div>
 
 <div class="publication">
-Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity judgments to study food-specific recognition ability.</strong> <em>Psychonomic Bulletin & Review</em>. <a href="https://www.dropbox.com/scl/fi/pau53ptk2i7g5rvy4ay44/FoodScenesPBRAccepted.pdf?rlkey=cp6912wxrcaaopq3papgnpde9&dl=0" target="_blank">pre-print</a>
+Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity judgments to study food-specific recognition ability.</strong> <em>Psychonomic Bulletin & Review</em>. <a href="https://rdcu.be/e4rIj" target="_blank">pdf</a>
 </div>
 
 <div class="publication">
