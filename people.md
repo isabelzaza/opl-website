@@ -39,6 +39,12 @@ title: People
   </div>
 
   <div class="person-card">
+    <img src="{{ site.baseurl }}/assets/images/Adrian Wong.jpg" alt="Adrian Wong">
+    <div>Adrian Wong</div>
+    <div class="title">Graduate Student (starting Fall 2026)</div>
+  </div>
+
+  <div class="person-card">
     <img src="{{ site.baseurl }}/assets/images/magen-speegle.jpg" alt="Magen Speegle">
     <a href="https://www.linkedin.com/in/magen-speegle-18718420/">Magen Speegle</a>
     <div class="title">Peer Review Coordinator at <a href="https://www.apa.org/pubs/journals/xhp" target="_blank" rel="noopener">JEP:HPP</a></div>
