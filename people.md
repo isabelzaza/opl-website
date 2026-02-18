@@ -39,7 +39,7 @@ title: People
   </div>
 
   <div class="person-card">
-    <img src="{{ site.baseurl }}/assets/images/Adrian Wong.jpg" alt="Adrian Wong">
+    <img src="{{ site.baseurl }}/assets/images/Adrian_Wong.jpg" alt="Adrian Wong">
     <div>Adrian Wong</div>
     <div class="title">Graduate Student (starting Fall 2026)</div>
   </div>
