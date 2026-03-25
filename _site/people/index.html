@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.">
+  <title>People - Object Perception Lab</title>
+  <link rel="shortcut icon" href="/opl-website/assets/images/greeble-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="/opl-website/assets/css/main.css">
+</head>
+<body>
+  
+
+<header class="site-header page-people">
+  <div class="header-content">
+    <h1 class="site-title">Object Perception Lab</h1>
+    <p class="site-subtitle">Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.</p>
+  </div>
+</header>
+
+<div class="site-nav">
+  <nav>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <ul id="nav-menu">
+      <li><a href="/opl-website/" >Home</a></li>
+      <li><a href="/opl-website/research/" >Research</a></li>
+      <li><a href="/opl-website/people/" class="active">People</a></li>
+      <li><a href="/opl-website/publications/" >Publications</a></li>
+      <li><a href="/opl-website/news/" >News</a></li>
+      <li><a href="/opl-website/resources/" >Resources</a></li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+  // Mobile menu toggle
+  (function() {
+    var hamburger = document.getElementById('hamburger');
+    var menu = document.getElementById('nav-menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        var isActive = this.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+        this.setAttribute('aria-expanded', isActive);
+      });
+
+      // Close menu when clicking a link
+      var links = menu.querySelectorAll('a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function() {
+          hamburger.classList.remove('is-active');
+          menu.classList.remove('is-active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  })();
+</script>
+
+
+  <main class="main-content">
+    <h1 id="people">People</h1>
+
+<div class="people-grid">
+  <div class="person-card">
+    <img src="/opl-website/assets/images/isabel-gauthier.png" alt="Isabel Gauthier" />
+    <a href="https://scholar.google.com/citations?user=zMFcCjEAAAAJ&amp;hl=en&amp;oi=ao">Isabel Gauthier</a>
+    <div class="title">David K Wilson Professor of Psychology<br />
+    Editor, <a href="https://www.apa.org/pubs/journals/xhp" target="_blank" rel="noopener">JEP:HPP</a> • Vice Department Chair</div>
+    <p><a href="https://www.dropbox.com/scl/fi/0ujaqlhmzjv7hyh932tfi/Gauthier_cv.pdf?rlkey=8e7isg6uw3gqpqhxojc0q63sx&amp;dl=0">CV</a></p>
+  </div>
+
+  <div class="person-card">
+    <img src="/opl-website/assets/images/conor-smithson.png" alt="Conor Smithson" />
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=pp-XTPwAAAAJ">Conor Smithson</a>
+    <div class="title">Post Doc</div>
+  </div>
+
+  <div class="person-card">
+    <img src="/opl-website/assets/images/melina-mueller.jpeg" alt="Melina Mueller" />
+    <a href="https://www.linkedin.com/in/melina-mueller-b627aa233/">Melina Mueller</a>
+    <div class="title">Graduate Student</div>
+  </div>
+
+  <div class="person-card">
+    <img src="/opl-website/assets/images/Ikhwan-Jeon.jpg" alt="Ikhwan Jeon" />
+    <div>Ikhwan Jeon</div>
+    <div class="title">Graduate Student</div>
+  </div>
+
+  <div class="person-card">
+    <img src="/opl-website/assets/images/magen-speegle.jpg" alt="Magen Speegle" />
+    <a href="https://www.linkedin.com/in/magen-speegle-18718420/">Magen Speegle</a>
+    <div class="title">Peer Review Coordinator at <a href="https://www.apa.org/pubs/journals/xhp" target="_blank" rel="noopener">JEP:HPP</a></div>
+  </div>
+</div>
+
+<h2>Research Assistants</h2>
+
+<ul>
+  <li>Macire Kebe</li>
+  <li><a href="https://www.linkedin.com/in/aujin-choi-424062243/">Aujin Choi</a></li>
+  <li><a href="https://www.linkedin.com/in/james-be-b8b395293/">James Be</a></li>
+</ul>
+
+<h2>Alumni</h2>
+
+<div class="alumni-list">
+
+  <ul>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/cindy-bukach/" target="_blank">Cindy Bukach</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/sin-chi-olivia-cheung/" target="_blank">Sin-Chi Olivia Cheung</a></li>
+    <li><a href="https://kaochua.github.io/" target="_blank">Kao-Wei Chua</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/kim-michelle-curby/" target="_blank">Kim Michelle Curby</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/thomas-james/" target="_blank">Thomas James</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/karin-h-james/" target="_blank">Karin H. James</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/jonathan-folstein/" target="_blank">Jonathan Folstein</a></li>
+    <li>Mel Kacin</li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/kari-hoffman/" target="_blank">Kari Hoffman</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/gael-jobard/" target="_blank">Gael Jobard</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/chun-nang-alan-wong/" target="_blank">Chun Nang Alan Wong</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/stephenie-harrison/" target="_blank">Stephenie Harrison</a></li>
+    <li>Cynthia Peng</li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/yetta-wong/" target="_blank">Yetta Wong</a></li>
+    <li>Gisele Fiestan</li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/ana-van-gulick/" target="_blank">Ana E Van Gulick</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/david-ross/" target="_blank">David Ross</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/katie-ryan/" target="_blank">Katie Ryan</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/jennifer-richler/" target="_blank">Jenn Richler</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/mackenzie-sunday/" target="_blank">Mackenzie Sunday</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/craig-sanders/" target="_blank">Craig Sanders</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/jackie-floyd/" target="_blank">Jackie Floyd</a></li>
+    <li><a href="http://gauthier.psy.vanderbilt.edu/oakyoon-cha/" target="_blank">Oakyoon Cha</a></li>
+    <li><a href="https://scholar.google.com/citations?hl=en&amp;user=AyurP6YAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Ting-Yun Chang</a></li>
+    <li><a href="https://www.linkedin.com/in/jisoo-sun/" target="_blank">Jisoo Sun</a></li>
+    <li><a href="https://jasonc.how/" target="_blank">Jason Chow</a></li>
+    <li>Yiming Lin</li>
+    <li>Rankin McGugin</li>
+  </ul>
+
+</div>
+
+<h2>Other Collaborators</h2>
+
+<ul>
+  <li><a href="https://as.vanderbilt.edu/psychology/bio/andrew-tomarken" target="_blank">Andrew Tomarken</a></li>
+  <li><a href="https://en-social-sciences.tau.ac.il/profile/nuritg" target="_blank">Nurit Gronau</a></li>
+  <li><a href="https://psychology.osu.edu/people/sloutsky.1" target="_blank">Vladimir Sloutsky</a></li>
+  <li><a href="https://www.uni-ulm.de/en/owilhelm/" target="_blank">Oliver Wilhelm</a></li>
+  <li><a href="https://psych.wustl.edu/people/ian-dobbins" target="_blank">Ian Dobbins</a></li>
+  <li><a href="https://www.psy.pku.edu.cn/bilab/sysry/" target="_blank">Yanchao Bi</a></li>
+</ul>
+
+  </main>
+
+  <footer class="site-footer">
+  <div class="footer-content">
+    <p>
+      Object Perception Lab &mdash; Vanderbilt University
+    </p>
+    <p>
+      <a href="https://native-land.ca/">Located on native Cherokee, Choctaw, Chickasaw, Creek and Shawnee land</a>
+    </p>
+    <p style="margin-top: 1rem; font-size: 0.875rem; opacity: 0.8;">
+      Header artwork: "Where the magic bears live" by <a href="https://www.crumplab.com/" target="_blank">Matt Crump</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

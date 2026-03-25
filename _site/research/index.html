@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.">
+  <title>Research - Object Perception Lab</title>
+  <link rel="shortcut icon" href="/opl-website/assets/images/greeble-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="/opl-website/assets/css/main.css">
+</head>
+<body>
+  
+
+<header class="site-header page-research">
+  <div class="header-content">
+    <h1 class="site-title">Object Perception Lab</h1>
+    <p class="site-subtitle">Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.</p>
+  </div>
+</header>
+
+<div class="site-nav">
+  <nav>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <ul id="nav-menu">
+      <li><a href="/opl-website/" >Home</a></li>
+      <li><a href="/opl-website/research/" class="active">Research</a></li>
+      <li><a href="/opl-website/people/" >People</a></li>
+      <li><a href="/opl-website/publications/" >Publications</a></li>
+      <li><a href="/opl-website/news/" >News</a></li>
+      <li><a href="/opl-website/resources/" >Resources</a></li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+  // Mobile menu toggle
+  (function() {
+    var hamburger = document.getElementById('hamburger');
+    var menu = document.getElementById('nav-menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        var isActive = this.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+        this.setAttribute('aria-expanded', isActive);
+      });
+
+      // Close menu when clicking a link
+      var links = menu.querySelectorAll('a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function() {
+          hamburger.classList.remove('is-active');
+          menu.classList.remove('is-active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  })();
+</script>
+
+
+  <main class="main-content">
+    <h1 id="our-research">Our Research</h1>
+
+<div class="content-wrapper">
+
+The OPL holds its weekly lab meetings with our friends from the <a href="http://catlab.psy.vanderbilt.edu/" target="_blank" rel="noopener">CATlab</a>.
+
+<h2>Individual Differences in Visual Cognition</h2>
+
+We investigate the structure of abilities supporting both single object recognition and ensemble perception. Examples of current projects include how individual differences in domain-general object recognition are influenced by long term experience, how object recognition abilities relate to episodic memory or statistical learning and abilities in food recognition. We are also exploring the structural and functional correlates of visual abilities in the brain.
+
+<h2>Perceptual Expertise</h2>
+
+OPL is Dr. Isabel Gauthier's research group at Vanderbilt University, located in Wilson Hall on the Vanderbilt University Campus in Nashville. We study how humans learn to categorize, recognize and represent objects in different domains. We are particularly interested in the acquisition of perceptual expertise, reflected by unusually good performance that generalizes to objects in an entire category (e.g., letters, faces, birds, cars, musical notation...). Expert performance is generally quite automatic and often accompanied by a loss of flexibility in the perceptual strategies that experts can apply to their trained domain.
+
+<h2>Current Projects</h2>
+
+- Domain-general object recognition and AI face detection
+- Object recognition abilities and episodic memory
+- Statistical learning and visual abilities
+- Food recognition abilities
+- How visual abilities relate to how we talk about images
+- Structural and functional correlates of visual abilities in the brain
+- Holistic processing across different object categories
+
+</div>
+
+  </main>
+
+  <footer class="site-footer">
+  <div class="footer-content">
+    <p>
+      Object Perception Lab &mdash; Vanderbilt University
+    </p>
+    <p>
+      <a href="https://native-land.ca/">Located on native Cherokee, Choctaw, Chickasaw, Creek and Shawnee land</a>
+    </p>
+    <p style="margin-top: 1rem; font-size: 0.875rem; opacity: 0.8;">
+      Header artwork: "Where the magic bears live" by <a href="https://www.crumplab.com/" target="_blank">Matt Crump</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

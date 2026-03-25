@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.">
+  <title>Resources - Object Perception Lab</title>
+  <link rel="shortcut icon" href="/opl-website/assets/images/greeble-favicon.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="/opl-website/assets/css/main.css">
+</head>
+<body>
+  
+
+<header class="site-header page-resources">
+  <div class="header-content">
+    <h1 class="site-title">Object Perception Lab</h1>
+    <p class="site-subtitle">Dr. Isabel Gauthier's research group at Vanderbilt University studying perceptual expertise, object recognition, and visual cognition.</p>
+  </div>
+</header>
+
+<div class="site-nav">
+  <nav>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <ul id="nav-menu">
+      <li><a href="/opl-website/" >Home</a></li>
+      <li><a href="/opl-website/research/" >Research</a></li>
+      <li><a href="/opl-website/people/" >People</a></li>
+      <li><a href="/opl-website/publications/" >Publications</a></li>
+      <li><a href="/opl-website/news/" >News</a></li>
+      <li><a href="/opl-website/resources/" class="active">Resources</a></li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+  // Mobile menu toggle
+  (function() {
+    var hamburger = document.getElementById('hamburger');
+    var menu = document.getElementById('nav-menu');
+
+    if (hamburger && menu) {
+      hamburger.addEventListener('click', function() {
+        var isActive = this.classList.toggle('is-active');
+        menu.classList.toggle('is-active');
+        this.setAttribute('aria-expanded', isActive);
+      });
+
+      // Close menu when clicking a link
+      var links = menu.querySelectorAll('a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function() {
+          hamburger.classList.remove('is-active');
+          menu.classList.remove('is-active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  })();
+</script>
+
+
+  <main class="main-content">
+    <h1 id="resources">Resources</h1>
+
+<div class="content-wrapper">
+
+  <h2>Public Articles</h2>
+
+  <p>Dr. Gauthier writes for The Conversation, making research in psychology and vision science accessible to general audiences. These articles translate complex findings into engaging stories for the public.</p>
+
+  <p><a href="https://theconversation.com/profiles/isabel-gauthier-1341366/articles" target="_blank">View all articles on The Conversation →</a></p>
+
+  <h2>Research Tests</h2>
+
+  <p>Downloadable materials for tests designed and validated by the Vanderbilt Object Perception Lab for use in individual differences research. These tests are freely available to promote research in this area.</p>
+
+  <p><strong>Please cite the reference provided for each test.</strong></p>
+
+  <h2>Tests Using jsPsych</h2>
+
+  <p>Tests to measure visual and auditory object recognition ability using jsPsych (<a href="https://github.com/OPLabVanderbilt/Ojs" target="_blank">GitHub</a>)</p>
+
+  <h3>Vanderbilt Holistic Processing Tests for Novel Objects (VHPT-NO)</h3>
+
+  <p>Designed to measure holistic processing for three categories of novel objects (asymmetric Greebles, Sheinbugs and one type of Ziggerins).</p>
+
+  <p><strong>Reference:</strong> Chua, K.-W., &amp; Gauthier, I. (2019). Domain-Specific Experience Determines Individual Differences in Holistic Processing. <em>Journal of Experimental Psychology: General.</em>
+<span style="white-space: nowrap;"><a href="https://www.dropbox.com/s/da2zxrdgciufkgh/ChuaGauthier_2019_JEPG.pdf?dl=0" target="_blank">pdf</a> | <a href="https://figshare.com/articles/VHPT_NO_zip/8345597#" target="_blank">materials</a></span></p>
+
+  <h3>Vanderbilt Chest Radiograph Test (VCRT)</h3>
+
+  <p>A reliable measure of individual differences in perceptual abilities for radiograph-related decision-making in novices.</p>
+
+  <p><strong>Reference:</strong> Sunday, M. A., Donnelly, E., &amp; Gauthier, I. (2017). Individual differences in perceptual abilities in medical imaging: the Vanderbilt Chest Radiograph Test. <em>Cognitive Research: Principles and Implications, 2</em>(1), 36. <a href="https://figshare.com/articles/VCRT/5827770" target="_blank">materials</a></p>
+
+  <h3>Vanderbilt Car Matching Test / Vanderbilt Face Matching Tests (VCMT/VFMT)</h3>
+
+  <p>Tests designed to measure face and object recognition without any stimulus repetition.</p>
+
+  <p><strong>Reference:</strong> Sunday, M. A., Lee, W.-Y., &amp; Gauthier, I. (in press). Age-related differential item functioning in tests of face and car recognition ability. <em>Journal of Vision.</em> <a href="https://doi.org/10.6084/m9.figshare.5709682.v1" target="_blank">materials</a></p>
+
+  <h3>Novel Object Memory Tests (NOMTs)</h3>
+
+  <p>Three reliable tests to measure object recognition ability with novel objects.</p>
+
+  <p><strong>Reference:</strong> Richler, J.J., Wilmer, J.B., Gauthier, I. (2017). General object recognition is specific: evidence from novel and familiar objects. <em>Cognition,</em> 166: 42-55.
+<span style="white-space: nowrap;"><a href="https://www.dropbox.com/s/66aa7jj1xae0tjq/RiWiGa_Cognition2017.pdf?dl=0" target="_blank">pdf</a> | <a href="https://figshare.com/s/e2cb4e01762580e46391" target="_blank">materials</a></span></p>
+
+  <h3>Vanderbilt Holistic Processing Test - Faces (VHPT-F 2.1)</h3>
+
+  <p>A reliable test of holistic processing of faces, operationalized as a failure of selective attention.</p>
+
+  <p><strong>Reference:</strong> Richler, J.J., Floyd, R.J., &amp; Gauthier, I. (2014). The Vanderbilt Holistic Face Processing Test: A short and reliable measure of holistic face processing. <em>Journal of Vision</em>, 14, 1-14.
+<span style="white-space: nowrap;"><a href="http://www.journalofvision.org/content/14/11/10" target="_blank">pdf</a> | <a href="https://figshare.com/articles/VHFPT_2_0_zip/5432152" target="_blank">materials</a></span></p>
+
+  <h2>Vanderbilt Expertise Test (VET)</h2>
+
+  <h3>VET 1.0</h3>
+
+  <p>The Vanderbilt Expertise Test is a battery of tests for object recognition abilities that uses a learning task.</p>
+
+  <p><strong>Reference:</strong> McGugin, R.W., Richler, J.J., Herzmann, G., Speegle, M. &amp; Gauthier, I. (2012). The Vanderbilt Expertise Test Reveals Domain-General and Domain-Specific Sex Effects in Object Recognition. <em>Vision Research</em>, 69:10-22.
+<span style="white-space: nowrap;"><a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/McRiHeGaSp.pdf" target="_blank">pdf</a> | <a href="https://figshare.com/s/2938870aa46ecfbab567" target="_blank">materials</a></span></p>
+
+  <h3>VET 2.0</h3>
+
+  <p>An improved version with different object categories.</p>
+
+  <p><strong>References:</strong></p>
+  <ul>
+    <li>Van Gulick, A.B. (2014) Measurement of Semantic Knowledge and Its Contribution to Object Recognition Performance. Doctoral Dissertation, Vanderbilt University. <a href="http://etd.library.vanderbilt.edu/available/etd-05222014-170633/unrestricted/VanGulick.pdf" target="_blank">pdf</a></li>
+    <li>Van Gulick, A., &amp; Gauthier, I. (2014). Measurement of semantic knowledge of object categories: Creating the Semantic Vanderbilt Expertise Test (SVET). <em>Journal of Vision</em>, 14(10), 821.
+<span style="white-space: nowrap;"><a href="http://www.journalofvision.org/content/14/10/821.short" target="_blank">link</a> | <a href="https://figshare.com/s/dbfc860692c80133183d" target="_blank">materials</a></span></li>
+  </ul>
+
+  <h3>VET House from Richler et al. (2019)</h3>
+
+  <p>These trials are provided in <a href="https://www.dropbox.com/s/ll51sdevdo6whyn/VET_House_trials.pptx?dl=0" target="_blank">a PPT file</a> that can be used to save individual images for all trials (see notes for details).</p>
+
+  <h2>Semantic Vanderbilt Expertise Test (SVET 1.0)</h2>
+
+  <p>A measure of semantic knowledge based on nomenclature, for the same categories as the VET 2.0.</p>
+
+  <p><strong>Reference:</strong> Van Gulick, A. E., McGugin, R. W., &amp; Gauthier, I. (2016). Measuring nonvisual knowledge about object categories: the semantic vanderbilt expertise test. <em>Behavior research methods</em>, 48(3), 1178-1196.
+<span style="white-space: nowrap;"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754162/" target="_blank">pdf</a> | <a href="https://figshare.com/s/7e8269ba93c85d069893" target="_blank">materials</a></span></p>
+
+</div>
+
+  </main>
+
+  <footer class="site-footer">
+  <div class="footer-content">
+    <p>
+      Object Perception Lab &mdash; Vanderbilt University
+    </p>
+    <p>
+      <a href="https://native-land.ca/">Located on native Cherokee, Choctaw, Chickasaw, Creek and Shawnee land</a>
+    </p>
+    <p style="margin-top: 1rem; font-size: 0.875rem; opacity: 0.8;">
+      Header artwork: "Where the magic bears live" by <a href="https://www.crumplab.com/" target="_blank">Matt Crump</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conor Smithson's Prolific 2026"
-date: 2026-03-25
+date: 2026-03-26
 ---
 
 Conor Smithson has had a productive year, with five papers published or in press spanning object recognition ability, ensemble perception, and cross-modal individual differences:

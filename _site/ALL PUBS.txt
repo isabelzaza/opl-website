@@ -1,0 +1,800 @@
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">
+  <strong>Copyright Notice:</strong>&nbsp;
+  <span style="text-align: justify; font-weight: normal;">
+    The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Single copies of any article or chapter can be downloaded and printed only for the reader's personal research and study. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted or redistributed in any electronic or printed form without the explicit permission of the copyright holder.
+  </span>
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+  <span style="color: #ff6600; font-size: 13px; font-weight: normal;">
+    If you are interested in using one of the measures we designed, like the Vanderbilt Expertise Test (VET) or the Vanderbilt Holistic Processing Test-Faces (VHPT-F), or the Semantic Vanderbilt Expertise Test (SVET), please consult our Resources section.
+  </span>
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+  Mueller, M. & Gauthier, I. (submitted). The Effect of Color Filters on Food Recognition depends on Food Neophobia and Food Disgust.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smithson, C.J.R., Lin, Y., &amp; Gauthier, I. (in press). Using scene proximity judgments to study food-specific recognition ability.
+  <em>Psychonomic Bulletin &amp; Review</em>, <a href="https://www.dropbox.com/scl/fi/pau53ptk2i7g5rvy4ay44/FoodScenesPBRAccepted.pdf?rlkey=cp6912wxrcaaopq3papgnpde9&amp;dl=0" target="_blank" rel="noopener">pre-print</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., and Smithson, C.J.R. (submitted). Attention control contributes to ensemble perception regardless of selection demands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gronau, N., Smithson, C.J.R., &amp; Gauthier, I. (in press). Object recognition ability predicts episodic location memory, enhanced by meaningfulness,  <em>Psychological Research, </em>  <a rel="noopener" href="https://osf.io/qx5th?view_only=be6bc532f4fa490d98e81e7eb1d8eb86" target="_blank">pre-peer review version</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smithson, C.J.R., Chow, J.K., Tomarken, A., &amp; Gauthier, I. (submitted). Visual and auditory object recognition in relation to spatial ability.
+  <em><a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank" rel="noopener">pre-peer review version</a></em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chow, J., McGugin, R.,W., &amp; Gauthier, I. (2025). Domain-general object recognition predicts human ability to tell real from AI-generated faces. <em>Journal of Experimental Psychology: General.</em> <a href="https://www.dropbox.com/scl/fi/q6otmnyq1ww7nj2q4mr5a/AI_JEPG_2025_Accepted.pdf?rlkey=2umck6eh8udufmmou869w8o7g&amp;dl=0">pre-print</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smithson, C.J.R. &amp; Gauthier, I. (2026). Is domain-general object recognition ability a novel construct? <em>Annual Review of Psychology, Vol. 77.&nbsp;</em>11.1-11.30. <a href="https://www.dropbox.com/scl/fi/v97kmsnxjjztjev56k0ho/SmithsonGauthierAR2026.pdf?rlkey=6eqs7c5psv4uwdrjown3qc7wn&amp;dl=0">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Newton, A.T., Lewis, B.J., Convery, C.A., Eyoh, E.E., Gauthier, I., Cascio, C.J. (2025). Ultra-high resolution imaging of laminar thickness in face-selective cortex in autism. <em>Cognitive and Affective Behavioral Neuroscience, 25, 1210-1223 <a href="https://www.dropbox.com/scl/fi/6cx0v3l9vg8awj54c203l/Hooper_BRM_inpress.pdf?rlkey=j08ih0szp2dklt9ua26gormhc&amp;dl=0">pre-print</a> , <a href="https://rdcu.be/d5idN">view-only journal link</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hooper, M.A., Tomarken, A., &amp; Gauthier, I. (2024). Measuring Visual Ability in Linguistically Diverse Populations. <em>Behavior Research Methods. <a href="https://www.dropbox.com/scl/fi/6cx0v3l9vg8awj54c203l/Hooper_BRM_inpress.pdf?rlkey=j08ih0szp2dklt9ua26gormhc&amp;dl=0">pre-print</a> , <a href="https://rdcu.be/d5idN">view-only journal link</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Roche, A., Ma, J. &amp; Gauthier, I<strong>.</strong> (2024). Challenges in replication: does amygdala gray matter volume relate to social network size?<em> Cognitive and Affective Behavioral Neuroscience. <a href="https://link.springer.com/content/pdf/10.3758/s13415-024-01185-w.pdf">online</a></em>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smithson, C.J.R., Chow, J.K., Chang, T.-Y. &amp; Gauthier, I. (2024). Measuring object recognition ability: reliability, validity, and the aggregate z-score approach. <em>Behavior Research Methods, https://doi.org/10.3758/s13428-024-02372-w <a href="https://www.dropbox.com/scl/fi/txwkmugiaf81fja7y3x7f/Smithson-et-al-2024-Measuring-obj-rec-Postprint.pdf?rlkey=uksg5je79ln28tvesbznhg8w1&amp;dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chang, T.-Y., Cha, O. &amp; Gauthier, I. (2024). A general ability for judging simple and complex ensembles. <em>Journal of Experimental Psychology: General, 153(6):1517-1536.&nbsp;doi: 10.1037/xge0001582. <a href="https://www.dropbox.com/scl/fi/s76nfk4q963yllntxp3ac/ChChGa_preprint_JEPG_2024.pdf?rlkey=rbu5j096z26qe4o7guv6b1xxn&amp;dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chow, J.K., Palmeri, T.J. &amp; Gauthier, I. (2024). Distinct but related abilities for visual and haptic object recognition.<em> Psychonomic Bulletin &amp; Review, https://doi.org/10.3758/s13423-024-02471-x <a href="https://www.dropbox.com/scl/fi/d7df99clctd9hcusc0yyl/Chow2024_PBR.pdf?rlkey=51wbm18teoi04ksigme2hxk4z&amp;dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. &amp; Olatunji, B. (2024). Reduced Food Neophobia and Food Disgust in Colorblind Men. <em>Motivation &amp; Emotion, https://doi.org/10.1007/s11031-023-10055-w <a href="https://www.dropbox.com/scl/fi/49h748144t5n3k5tl50cq/GaOl_M-E_2023_accepted.pdf?rlkey=dva2lulye4g1cyg4e16u0uxw4&amp;dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Benear, S.L., Sunday, M.A., Davidson, R., Palmeri, T.J. &amp; Gauthier, I. (2024). Can art change the way we see? Advance Online Publication. <em>Psychology of Aesthetics, Creativity, and the Arts, 18(5), 882–893. https://doi.org/10.1037/aca0000288. </em><a href="https://www.dropbox.com/s/r9q9hjw29n1hcr1/Benearetal_2019.pdf?dl=0">preprint</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chang, T.-Y., Cha, O., McGugin, R., Tomarken, A. &amp; Gauthier, I. (2023). How general is ensemble perception? <em>Psychological Research. https://doi.org/10.1007/s00426-023-01883-z <a href="https://www.dropbox.com/scl/fi/xwq1msjkim51zk3tagt7n/ChangPR2023.pdf?rlkey=3en6fd6lmxlrljcriqexwg18c&amp;dl=0">pre-print</a><br><a href="https://link.springer.com/epdf/10.1007/s00426-023-01883-z?sharing_token=sF4r_Oqj4fHoJLFfTdGUG_e4RwlQNchNByi7wbcMAY7lkCRzl7SsX5P9HdplVhlDNczPNp8yHZ9JEm_HAUp14ainiGpPLylvfHLmTGHgouWYESUNP8W42DbsZU65W5uo6mIGKa_Vff868ErAYCwr1MxyMK7ZbTsJPteTlHOtL4o%3D">sharelink</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2023). Expertise is domain-specific by definition – a comment on “Deep learning models challenge the prevailing assumption that face-like effects for objects of expertise support domain-general mechanisms” by Yovel and colleagues. <a href="https://psyarxiv.com/9hybj">PsyArXiv, 10.31234/osf.io/9hybj</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chow, J.K., Palmeri, T.J., Pluck, G., &amp; Gauthier, I. (2023). Evidence for a bimodal domain-general object recognition ability. <em>Cognition. 238 (2023): 105542. https://doi.org/10.1016/j.cognition.2023.105542&nbsp;<a href="https://www.dropbox.com/s/8afz0ut5kwavgia/Chowetal_2023_Cognition.pdf?dl=0">pdf</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sun, J. &amp; Gauthier, I. (2023). Does food recognition depend on color? <em>Psychonomic Bulletin &amp; Review, <span data-test="journal-volume">Volume&nbsp;30</span>, 2219–2229. https://doi.org/10.3758/s13423-023-02298-y.&nbsp; <a href="https://www.dropbox.com/s/nvdwsuq6pl5smpe/FOOD_Color_PBR.pdf?dl=0">pdf.</a></em>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smithson, C.J.R., Eichbaum, Q.G. &amp; Gauthier, I. (2023). Object recognition predicts category learning with medical images. <a href="https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-022-00456-9"><em>Cognitive Research: Principles and Implications, 8:9.</em></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. &amp; Fiestan, G. (2023). Food neophobia predicts visual ability in the recognition of prepared food, beyond domain-general factors. <em>Food Quality and Preference</em>, <i>103</i>, 104702. <a href="https://www.dropbox.com/s/b3cu4cye455i1y9/GauthierFiestan2022.pdf?dl=0">pre-print</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. Cha, O. &amp; Chang, T.-Y. (2022). Mini review: Individual differences and domain-general mechanisms in object recognition. <i>Front. Cognit.</i>&nbsp;1:1040994. <a href="https://www.frontiersin.org/articles/10.3389/fcogn.2022.1040994/full">doi: 10.3389/fcogn.2022.1040994</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kacin, M., Cha, O., &amp; Gauthier, I. (2022). The relation between ensemble coding of length and orientation does not depend on spatial attention. <a href="https://www.mdpi.com/2411-5150/7/1/3"><em>Vision, 7(1):3.&nbsp;</em></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R. W., Sunday, M. A. &amp; Gauthier, I. (2022). The neural correlates of domain-general visual ability. <em>Cerebral Cortex, </em>Apr 4;33(8):4280-4292<em>. </em><a href="https://www.dropbox.com/s/jdaopqn6q5xprl6/McSuGa_CC_accepted.pdf?dl=0">pre-print</a> <a href="https://www.dropbox.com/s/dtlo58ls1ihtdcv/Supplemental%20McSuGa_CC.pdf?dl=0">supplement</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chow, J.K., Palmeri, T.J. &amp; Gauthier, I. (2022). Visual object recognition ability is not related to experience with visual arts. <em>Journal of Vision</em>, 22(7):1. <a href="https://www.dropbox.com/s/29ny8mf1d61cz4k/ArtsyO_JOV-Revisions1_Final.pdf?dl=0"><em>pre-print</em></a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chow, J.K., Palmeri, T.J. &amp; Gauthier, I. (2022). Haptic object recognition based on shape relates to visual object recognition. <em>Psychological Research, 86(4),</em> 1262-1273. <em><a href="https://www.dropbox.com/s/q9msxogtj8a92ol/OT_Alpha_AcceptedPreprint.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cha, O., Blake, R. &amp; Gauthier, I. (2022). Contribution of a common ability in average and variability judgments. <em>Psychonomic Bulletin and Review, 29(1),</em> 108-115. <em><a href="https://www.dropbox.com/s/16drj0k7v85hvfa/Cha2021_PBR.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chang, T.-Y. &amp; Gauthier, I. (2022). Domain-general ability underlies complex object ensemble processing. <em>Journal of Experimental Psychology: General, 151(4),</em> 966-972. <em><a href="https://www.dropbox.com/s/hq3bo9m5uzvd3fl/ChangGauthier2021.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M. A., Tomarken, A., Cho, S.-J. &amp; Gauthier, I. (2022). Novel and familiar object recognition rely on the same ability. <em>Journal of Experimental Psychology: General, 151(3),</em> 676-694. <em><a href="https://www.dropbox.com/s/31jam2woqmu9zfs/SuToChGa2021_JEPG.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chang, T.-Y. &amp; Gauthier, I. (2021). Domain-specific and domain-general contributions to reading musical notation. <em>Attention, Perception &amp; Psychophysics, 83(7),</em> 2983-2994. <em><a href="https://www.dropbox.com/s/1pmtdc09tsx0j93/ChanGauthier_MNET2021.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kacin, M., Gauthier, I. &amp; Cha, O. (2021). Ensemble coding of average length and average orientation are correlated.&nbsp;<em>Vision Research, 187,</em> 94-101. <em><a href="https://www.dropbox.com/s/thhowbt3xw47n1n/KacinGaCh2021.pdf?dl=0">pre-print</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sun, J.&amp; Gauthier, I. (2021). Car expertise does not compete with face expertise during ensemble coding.<em> Attention, Perception &amp; Psychophysics, </em>83(3), 1275-1281.<em><a href="https://www.dropbox.com/s/7uv3jp8kdi3euxp/SunGauthier2020preprint.pdf?dl=0">link</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cha, O., Blake, R. &amp; Gauthier, I. (2020). The role of category- and exemplar-specific experience in ensemble processing of objects. <em>Attention, Perception &amp; Psychophysic, 83, 1080–1093. <a href="https://rdcu.be/b8Kfb">link</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Annis, J., Gauthier, I. &amp; Palmeri, T.J. (2020). Combining convolutional neural networks and cognitive models to predict novel object recognition in humans. <em>Journal of Experimental Psychology: Learning, Memory &amp; Cognition, 47(5), 785–807. https://doi.org/10.1037/xlm0000968 </em><a href="https://www.dropbox.com/s/efv19urzdrqm850/AnGaPa20_accepted.pdf?dl=0">pre-print</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2020). What we could only learn about holistic face processing from non-face objects. <em>Current Directions in Psychological Science, 29(4), </em>419-425. <a href="https://www.dropbox.com/s/pdwhmlxecnwo9pt/Gauthier_CDPS_2020.pdf?dl=0">pre-print</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Newton, A.T., Tamber-Rosenau, Tomarken, A., Gauthier, I. (2020). Thickness of deep layers in the fusiform face area predicts face recognition, <em>Journal of Cognitive Neuroscience, </em>32(7), 1316-1329. <a href="https://www.dropbox.com/s/uq1o2pz3mij9tax/McGugin_JOCN2020_preprint.pdf?dl=0">pre-print</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K.-W. &amp; Gauthier, I. (2020). The Vanderbilt Holistic Processing Tests for Novel Objects: Validation in Novice Participants. <i>Journal of Expertise, 3(1) , </i>20–31.&nbsp;<a href="https://www.dropbox.com/s/pi6pajcbt2f285b/ChuaGauthierJoE_accepted.pdf?dl=0">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M., Patel, P.A., Dodd, M.A., &amp; Gauthier, I. (2019). Gender and hometown population density interact to predict face recognition ability. <em>Vision Research, 163, </em>14-23.<a href="https://www.sciencedirect.com/science/article/pii/S0042698919301609?via%3Dihub">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K.-W., &amp; Gauthier, I. (2020). Domain-Specific Experience Determines Individual Differences in Holistic Processing. <em>Journal of Experimental Psychology: General,</em> 49(1), 31-41. <a href="https://www.dropbox.com/s/da2zxrdgciufkgh/ChuaGauthier_2019_JEPG.pdf?dl=0">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chang, T.-Y. &amp; Gauthier, I. (2019). Distractor familiarity reveals the importance of configural information in musical notation. <em>Attention, Perception and Psychophysics, 1-14.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., McGugin, R.W., Tamber-Rosenau, B., &amp; Gauthier, I. (2019). Visual imagery of faces and cars in face-selective visual areas, 13(9), e0205041. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205041"><em>PLOSone</em>.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J. J., Tomarken, A. J., Sunday, M. A., Vickery, T. J., Ryan, K. F., Floyd, J. R., Sheinberg, D., Wong, A. C.-N. &amp; Gauthier, I. (2019). Individual Differences in Object Recognition. <em>Psychological Review, 126(2), 226-251. </em><a href="https://www.dropbox.com/s/vy3ho4vmwir1b3d/Richler2018PR.pdf?dl=0">pdf of accepted manuscript</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.dropbox.com/s/obr68dkblmyv9w6/Richler-PR2018_supp.pdf?dl=0">Supplemental materials</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., Dodd, M.D., Tomarken, A.J., Gauthier, I. (2019). How faces (and cars) may become special. Vision Research, 157, 202-212&nbsp;<a href="https://www.dropbox.com/s/r94ckvahdgpvyfo/SuDoToGa17.pdf?dl=0">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., Donnelly, E. &amp; Gauthier, I. (2018). Both fluid intelligence and visual object recognition ability relate to nodule detection in chest radiographs. <em>Applied Cognitive Psychology, 32(6), </em>755-762. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3460">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M. A., &amp; Gauthier, I. (2018). Face expertise for unfamiliar faces: A&nbsp;commentary on Young and Burton’s 'Are we Face Experts? <em>Journal of Expertise. </em><a href="https://www.journalofexpertise.org/articles/JoE_2018_1_1_Sunday&amp;Gautier_May15.pdf">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Chua, K.-W., Richler, J.J. (2018). How holistic processing of faces relates to cognitive control and intelligence. <em>Attention, Perception &amp; Psychophysics,&nbsp;<i>80</i>(6), 1449-1460. </em><a href="https://rdcu.be/LJ7w">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ross, D.A., Tamber-Rosenau, B.J., Palmeri, T.J., Zhang, J., Xu, Y. Gauthier, I. (2018). High Resolution fMRI Reveals Configural Processing of Cars in right anterior Fusiform Face Area of Car Experts. Journal of Cognitive Neuroscience, 30(7):973-984.&nbsp;<a href="https://www.dropbox.com/s/mhyad9p7fiwasiq/Ross2018preprint.pdf?dl=0">preprint</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., Lee, W.-Y., Gauthier, I. (2018). Age-related differential item functioning in tests of face and car recognition ability. <em>Journal of Vision</em>, <a href="http://jov.arvojournals.org/article.aspx?articleid=2668144">18,2.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2018).&nbsp;Domain-specific and domain-general individual differences in visual object recognition. <em>Current Directions in Psychological Science</em>, 27(2), 97-102&nbsp;<a href="https://www.dropbox.com/s/tg3cogzd8vnv4is/CD_2017_revision.pdf?dl=0">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nevins, M., Maxcey, A., Gauthier, I. (2017). A face scavenger hunt: why we see faces in objects without faces. <em>Frontiers for Young Minds.&nbsp;doi:10.3389/frym.2017.00067&nbsp;</em><a href="https://kids.frontiersin.org/article/10.3389/frym.2017.00067">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2017). My lab’s research comes under anti-science attack. <em>Psychological Science Agenda</em>,<a href="http://www.apa.org/science/about/psa/2017/07/index.aspx"> 31:7.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., Donnelly, E., Gauthier, I. (2017). Individual differences in perceptual abilities in medical imaging: The Vanderbilt Chest Radiograph Test. <em>Cognitive Research: Principles and Implications, 2:36.&nbsp;</em><a href="http://rdcu.be/v1ks">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K.-W., Bub, D.N., Masson, M.E.J. &amp; Gauthier, I. (2018).Grasp representations depend on knowledge and attention. &nbsp;<em>Journal of Experimental Psychology: Learning, Memory &amp; Cognition, 44(2), 268-279 </em><a href="https://web.uvic.ca/psyc/masson/CBMG17.pdf">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Wilmer, J.B., Gauthier, I. (2017). General object recognition is specific: evidence from novel and familiar objects. <em>Cognition,&nbsp;</em>166: 42-55. <a href="https://www.dropbox.com/s/66aa7jj1xae0tjq/RiWiGa_Cognition2017.pdf?dl=0">pdf</a> <a href="https://osf.io/6c4m7/">data</a>&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/resources/">download tasks here</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Ryan, K.F., Tamber-Rosenau, B.J., Gauthier, I. (2017). The role of experience in the face-selective response in right FFA. <em>Cerebral Cortex. may 3: 1-14. Epub ahead of print.</em> <a href="https://www.dropbox.com/s/bnbc37kufhz802d/McGugin2017CC.pdf?dl=0">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M.A., Richler, J.J. &amp; Gauthier, I. (2017). Limited evidence of individual differences in holistic processing in different versions of the part-whole paradigm. <em>Attention, Perception &amp; Psychophysics,&nbsp;</em>79(5), 1453-1465. <a href="https://www.dropbox.com/s/kr3jgixih71ykiw/Sunday%2CRichler%26Gauthier2017.pdf?dl=0">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2017). The Quest for the FFA led to the Expertise Account of its Specialization. &nbsp;<a href="https://arxiv.org/abs/1702.07038">https://arxiv.org/abs/1702.07038</a>&nbsp;A commentary on &nbsp;Kanwisher, N. (2017). The Quest for the FFA and Where It Led.&nbsp;<em>Journal of Neuroscience</em>,&nbsp;<em>37</em>(5), 1056-1061. <a href="https://figshare.com/s/e90d9b4e2e8aa10d17ff">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wang, C.-C., Ross, D.A., Gauthier, I., Richler, J.J. (2016). Validation of the Vanderbilt Holistic Face Processing Test. <em>Frontiers In Psychology: Perception Science, 7, </em><a href="http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01837/full">1837<em>.</em></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ryan, K.T. &amp; Gauthier, I. (2016). Gender differences in recognition of toy faces suggest a contribution from experience. <em>Vision Research, 1<i>29</i>, </em>69-76 <a href="https://www.dropbox.com/s/40w5xhvo5l3heo4/RyanGauthierVisRes_INPRESS.docx?dl=0">preprint</a><a href="https://figshare.com/articles/Data_for_Ryan_and_Gauthier_2016/4038441">data</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Foss-Feig, J.H., McGugin, R.W., Gauthier, I., Mash, L.E., Ventola, P., &amp; Cascio, C.J. (2016) A Functional Neuroimaging Study of Fusiform Response to Restricted&nbsp;Interests in Children and Adolescents with Autism Spectrum Disorder. Journal of Neurodevelopmental Disorders, <a href="https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-016-9149-6">8:15</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday, M., McGugin, R. W., &amp; Gauthier, I. (2016). Domain-specific reports of visual imagery vividness are not related to perceptual expertise. <i>Behavior Research Methods</i>, 1-6. <a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/2016SundayMcGuginGauthier.pdf">pdf</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. &amp; Tarr, M.J. (2016). Visual object recognition: do we (finally) know more now then we did? <em>Annual Review in Vision Science., <a href="http://annualreviews.org/doi/full/10.1146/annurev-vision-111815-114621">2,&nbsp;377-396.</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wang, P., Gauthier, I., &amp; Cottrell, G. (2015). Are face and object recognition independent? A neurocomputational modeling exploration. Journal of Cognitive Neuroscience. <a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/WongGauthierCottrell.pdf">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K.-W., Gauthier, I. (2015). Category-Specific Learned Attentional Bias To Object Parts, <em>Attention, Perception &amp; Psychophysics.</em> <a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/Chua_Gauthier2016.pdf">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Van Gulick, A.B. &amp; Gauthier, I. (2016). Cortical Thickness in Fusiform Face Area Predicts Face and Object Recognition Performance.&nbsp;<em>Journal of Cognitive Neuroscience,&nbsp;<i>28</i>(2), 282-294</em>.&nbsp;<a href="https://www.dropbox.com/s/e5d7pt1ukjv6x4u/JOCN_a_00891-McGugin_Proof1_RM.pdf?dl=0">proofs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lee, W.-Y., Cho, S.-J., McGugin, R.W., Van Gulick, A.B. &amp; Gauthier, I. (2015). Differential Item Functioning Analysis of the Vanderbilt Expertise Test for Cars (VETcar).&nbsp;<em>Journal of Vision</em>, 15(13):23.<a href="http://jov.arvojournals.org/article.aspx?articleid=2449199">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W. &amp; Gauthier, I. (2015). The reliability of individual differences in face-selective responses in the fusiform gyrus and their relation to face recognition ability. <a href="http://link.springer.com/article/10.1007%2Fs11682-015-9467-4"><em>Brain Imaging Behav. </em>1-12.</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Van Gulick, A.E., McGugin, R.W. &amp; Gauthier, I. (2015).&nbsp;Measuring non-visual knowledge about object categories:&nbsp;The Semantic Vanderbilt Expertise Test,&nbsp;<em>Behavioral Research Methods, </em>1-19<em>,&nbsp;</em><em><a href="https://figshare.com/s/59e7a3bd0f5e56134e5f">PDF</a>&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/resources/">download tasks here</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Floyd, R.J. &amp; Gauthier, I. (2015). About-Face on Face Recognition Ability and Holistic Processing, <em>Journal of Vision, 15(9):15. </em><a href="https://jov.arvojournals.org/article.aspx?articleid=2411811">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ross, D.A. &amp; Gauthier, I. (2015). Holistic processing in the composite task depends on face size. <em>Visual Cognition,&nbsp;<i>23</i>(5), 533-545. </em><a href="https://figshare.com/s/5c63d0323d9f10b809fa">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K.-W., Richler, J.J., &amp; Gauthier, I. (2015). Holistic processing from learned attention to parts. Journal of Experimental Psychology: General,&nbsp;<span class="cit">144(4): 723–729.</span>&nbsp;<a href="https://figshare.com/s/7fd1a3c41cbef2066c18">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Folstein, J.R., Palmeri, J., Gauthier, I. (2014). Perceptual advantage for category-relevant perceptual dimensions: The case of shape and motion, Frontiers in Psychology - Cognition, <a href="http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.01394/abstract">link</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cho, Sun-Joo, Wilmer, J., Herzmann, G., McGugin, R.W., Fiset, D., Van Gulick, A.E., Ryan, K, &amp; Gauthier, I. (2015). Item Response Theory Analyses of the Cambridge Face Memory Test (CFMT). <em>Psychological Assessment</em>.,27(2):552-66. <a href="https://figshare.com/s/a5e14e0d6a459a70cbec">pdf</a>&nbsp; <a href="http://figshare.com/articles/CFMT_Dataset_for_Cho_et_al_2014/1249718">link to data</a><a href="http://figshare.com/articles/CFMT_Dataset_for_Cho_et_al_2014/1249718">&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Palmeri, T.J., &amp; Gauthier, I. (2015). Holistic processing does not require configural variability. <em>Psychonomic Bulletin &amp; Review,22(4):974-9</em> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034356/pdf/nihms814088.pdf">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Newton, A.T., Gore, J.C., Gauthier, I. (2014). Robust expertise effects in right FFA. <em>Neuropsychologia, </em>63:135-144<em>.</em> <a href="https://figshare.com/s/21bb789aa2ab4cac03d4">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Folstein, J., Palmeri, T.J., Van Gulick, A.E., Gauthier, I. (2015). Category learning stretches neural representations in visual cortex. <em>Current Directions in Psychology,&nbsp;<i>24</i>(1), 17-23.</em> <a href="https://www.dropbox.com/s/uknxu2cuhqbuuiz/FolsteinetaCurrentDirections2015.pdf?dl=0" target="_blank" rel="noopener noreferrer">pdf</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M. &amp; Gauthier, I. (2015). Interference between face and non-face domains of perceptual expertise: a replication and extension. <em>Frontiers in Psychology – Cognition. </em><a href="http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00955/abstract">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Floyd, R.J., &amp; Gauthier, I., (2015). The Vanderbilt Holistic Face Processing Test: a short and reliable measure of holistic face processing. <em>Journal of Vision, </em>14(11): 10.<a href="https://www.dropbox.com/s/1euzvlxscmi0jlj/VHFPT_inpress.pdf?dl=0">link</a><a href="http://gauthier.psy.vanderbilt.edu/resources/">&nbsp; download task here</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ross, D. A., Richler, J.J., &amp; Gauthier, I. (2015 ). Reliability of Composite Task Measurements of Holistic Face Processing. <em>Behavioral Research Methods,&nbsp;47(3):736-43&nbsp;</em><a href="https://figshare.com/s/ebea0585dfdb638a10dc" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheung, O., Gauthier, I. (2014). Visual appearance interacts with conceptual knowledge in object recognition. <em>Frontiers in Psychology – Cognition, 5:793.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Harrison, S., Gauthier, I., Hayward, W., Richler, J.J. (2014). Other-race effects manifest in overall performance, not qualitative processing style. <em>Visual Cognition,&nbsp;</em>22(6)<em>: 843-864</em>&nbsp;<a href="https://figshare.com/s/3f59fdf2eebc97b56e1b" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., McGugin, R.W., Richler, J.J., Herzmann, G., Speegle, M. &amp; VanGulick, A.E. (2014). Experience moderates overlap between object and face recognition, suggesting a common ability, <em>Journal of Vision</em><a href="https://figshare.com/s/e96f030e5c273f9c8a99" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J. &amp; Gauthier, I. (2014). A meta-analysis and review of holistic processing. <em>Psychological Bulletin,&nbsp;140(5), 1281-1302.&nbsp;</em><a href="https://figshare.com/s/e6bbce71cb34c820c185" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wang, P., Gauthier, I., Cottrell, G. (2014). Experience Matters: Modeling the relationship between face and object recognition. <em>CogSci 2014.&nbsp;<a href="http://cseweb.ucsd.edu/~gary/pubs/panqu-cogsci-2014.pdf" target="_blank" rel="noopener noreferrer">PDF</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Van Gulick, A.E, Gauthier, I. (2015). The perceptual effects of learning object categories that predict perceptual goals. <em>Journal of Experimental Psychology: Learning, Memory and Cognition, </em>40(5): 1307-20<em>&nbsp;</em><a href="https://www.dropbox.com/s/1lvmdmvgdg6j3qb/VanGulick%26Gauthier_2015.pdf?dl=0" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Van Gulick, A.E., Tamber-Rosenau, B.J., Ross, D.A. &amp; Gauthier, I.&nbsp;(2014). Expertise effects in face selective areas are robust to clutter and diverted attention but not to competition. <em>Cerebral Cortex, 25(9):2610-22 </em><a href="https://www.dropbox.com/s/os0mu4pl05q9mnq/McVaTaRoGa_CerebralCortex_2014.pdf?dl=0" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K., Peng, C., Fratus, K.N., Woodman, G.F. &amp; Gauthier, I. (2014). Perceptual expertise and top-down expectation of musical notation engages the primary visual cortex. <em>Journal of Cognitive Neuroscience, </em>26(8):1629-43.&nbsp;&nbsp;<a href="https://www.dropbox.com/s/f6gia7gy4pxhonj/WongJOCN2014.pdf?dl=0">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chua, K-.W., Richler, J.J., &amp; Gauthier, I. (2014). Becoming a Lunari or Taiyo expert: Learned attention to parts drives holistic processing. JEP:HPP, 40(3):1174-82.&nbsp;&nbsp;<a href="https://www.dropbox.com/s/4gg9c0p4kefl5aa/ChRiGa2014.pdf?dl=0">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Clarke, A.M., Greczkowski, L., Mast, F.W., Gauthier, I. &amp; Herzog, M. (2014). Deleterious effects of roving on learned tasks. <em>Vision Research. <em>99</em>, 88-92.&nbsp;</em><a href="https://www.dropbox.com/s/fz9ns9gyeccau3t/Clarke2014.pdf?dl=0">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ross, D.A., McGugin, R.W., Gauthier, I. (2013). Heterogeneity of FFA responses or multiplexing? <em>Trends in Cognitive Sciences.&nbsp;</em><a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/RossMcguginGautier.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Williams, L.E., Blackford, J.U., Luksik, A.,&nbsp;Gauthier, I. &amp; Heckers, S. (2013) Reduced habituation in patients with&nbsp;schizophrenia. Schizophrenia Research,&nbsp;<i>151</i>(1), 124-132.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/Williamsetal_HabituationRevised_SzRes_Manuscript.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., &amp; Gauthier, I. (2013). When intuition fails to align with data: A reply to Rossion (2013). Visual Cognition. <a href="https://figshare.com/s/88019f519a746afc0cb4" target="_blank" rel="noopener noreferrer">PDF</a>&nbsp; <a href="http://metrouk2.files.wordpress.com/2014/03/wpid-goat_raymonds_450x300.jpg">Goat high five</a>&nbsp;<a href="https://figshare.com/s/0005de437be4a62dd0a6" target="_blank" rel="noopener noreferrer">PDF of Rossion 2013</a>&nbsp;(this exchange will be useful for those who want to measure holistic processing and want to decide which version of the composite task they should use).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Folstein, J. R., Palmeri, T. J., &amp; Gauthier, I. (2013). Category learning increases discriminability of relevant object dimensions in visual cortex.<em> <i>Cerebral Cortex</i>,<i>23</i>(4), 814-823.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/FolsteinPalmeriGauthier12.pdf">PDF</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Palmeri, T.J., Gauthier, I. (2012). Meanings, Mechanisms, and Measures of Holistic Processing. Frontiers in Perception Science.&nbsp;doi: 10.3389/fpsyg.2012.00553 <a href="http://www.frontiersin.org/Perception_Science/10.3389/fpsyg.2012.00553/full">link</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J. J., Palmeri, T. J., &amp; Gauthier, I. (2013). How does using object names influence visual recognition memory?&nbsp;<em>Journal of Memory and Language</em>,&nbsp;<em>68</em>(1), 10-25.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/RiPaGa_JML-final.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Gatenby, Gore, J.C.,&nbsp;Gauthier, I. (2012). High-resolution imaging of expertise reveals reliable object selectivity in the FFA related to perceptual performance. <em>Proceedings of the National Academy of Sciences, <em>109</em>(42), 17063-17068.&nbsp;</em> <a href="https://figshare.com/s/0484bac05a7135a0e8c6" target="_blank" rel="noopener noreferrer">PDF</a>&nbsp; <em>Although PNAS did not allow this to be included in the final version, we dedicate this paper to the memory of Shlomo Bentin, who was among the first to discuss this work with us, a great scientist and influence for so many in the field.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://gauthier.psy.vanderbilt.edu/replytonk/">Response to Kanwisher's question about McGugin 2012</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://gauthier.psy.vanderbilt.edu/reply-to-hans-op-de-beeck-about-mcgugin-et-al-2012/">Response to Op De Beeck's question about McGugin 2012</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Richler, J.J., Herzmann, G., Speegle, M. &amp; Gauthier, I. (2012). The Vanderbilt Expertise Test Reveals Domain-General and Domain-Specific Sex Effects in Object Recognition. <em>Vision Research, 69:10-22.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/McRiHeGaSp.pdf">PDF</a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y. K., Folstein, J. R., &amp; Gauthier, I. (2012). The nature of experience determines object representations in the visual system. <em>Journal of Experimental Psychology: General.</em> 141(4):682-698. <a href="https://figshare.com/s/6e37dde0ca842b2be319" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K. &amp; Gauthier, I. (2012). Music-reading expertise alters visual spatial resolution for musical notation.&nbsp;<em>Psychonomic Bulletin and Review</em>, 19(4):594-600.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/WoGauth2012.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bukach, C. M., Vickery, T.J., Kinka, D., &amp; Gauthier, I.&nbsp;&nbsp;(2012). Training Experts: Individuation without naming is worth it. . <em>Journal of Experimental Psychology: Human Perception and Performance</em>,&nbsp;38(1):14-7.<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/BuViKiGa2012.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Folstein, J.R., Gauthier, I., Palmeri, T.J. (2012). How category learning affects object representations: Not all morph spaces stretch alike. <em>Journal of Experimental Psychology: Learning, Memory</em>, 38(4):807-20.&nbsp;<a href="https://www.dropbox.com/s/3p20m7h2ypg7g1q/FoGaPa2011_JEPLMC.pdf?dl=0">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Cheung, O.S., Gauthier, I. (2011). Beliefs alter holistic face processing If response bias is not taken into account. <em>Journal of Vision</em>, 11(13):17, 1-13. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiChGa_2011_JOV.pdf">PD</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Gauthier, I., Palmeri, T.J. (2011). Automaticity of basic-level categorization accounts for labeling effects in visual recognition memory, <em>Journal of Experimental Psychology: Learning, Memory</em>, 37(6), 1579-1587 .<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RichlerGauthierPalmeri_xlm_37_6_1579.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheung, O., Richler, J., Phillips, W., Gauthier, I. (2011). Does temporal intergration of face parts reflect holistic processing? <em>Psychonomic Bulletin and Review</em>, 18: 476-483.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/ChRiPhGa_11.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mack, M.L., Richler, J.J., Gauthier, I., Palmeri, T.J. (2010). Indecision on decisional separability. <em>Psychonomic Bulletin and Review</em>, 18(1): 1-9.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Mack__Psychonomic-bulletin-review.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Cheung, O.S., Gauthier, I. (2011). Holistic processing predicts face recognition. <em>Psychological Science</em>, 22(4):464-71. &nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/SAPDS_withsupp.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Mack, M.L., Palmeri, T.J., Gauthier, I. (2011). Inverted faces are (eventually) processed holistically. <em>Vision Research</em>, 51(3):333-42.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiMaPaGa_Vision-Research.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Wong, Y.K., Gauthier, I. (2011). Perceptual expertise as a shift from strategic interference to automatic holistic processing. <em>Current Directions in Psychological Science</em>, 20(2):129-134. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CurrentDirections_2011.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K., Folstein, J., Gauthier, I. (2011). Task-Irrelevant Perceptual Expertise.&nbsp;<a title="Journal of vision." href="http://www.ncbi.nlm.nih.gov/pubmed/22144562#">J Vis</a>,&nbsp;5;11(14):3. <a href="http://www.journalofvision.org/content/11/14/3.long">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, A.C.-N., Zhiyi, Q., McGugin, R.N.W. &amp; Gauthier, I.&nbsp;(2011). Interference in character processing reflects common perceptual expertise across writing systems. <em>Journal of Vision</em>, 11(1):15. &nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WonQuMcGau2011.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Tanaka, J.W., Lebrecht, S., Tarr, M.J., &amp; Gauthier, I.&nbsp;(2011). Race-Specific perceptual discrimination improvement following short individuation training with faces. <em>Cognitive Science</em>, 35(2):330-47 .<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/McGugin_CogSci_2011.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bukach, C.M., Phillips, S.W., Gauthier, I. (2010). Limits of generalization between categories and implications for theories of category specificity. <em>Attention, Performance and Psychophysics</em>, 1865-1874.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Bukachetal_2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheung, O.S., Gauthier, I. (2010). Selective Interference on the holistic processing of faces in working memory. <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 36(2), 448-461.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/ChGa10.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M., Gauthier, I. (2010). To the trained eye: Perceptual expertise alters visual processing. <em>Topics in Cognitive Science</em>, 2(2): 189-201.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CuGa10.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Folstein, J.R., Gauthier, I. and Palmeri, T.J. (2010). Mere exposure alters category learning of novel objects. <em>Frontiers in Psychology</em>, 1:40.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/FoGaPa_2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Wong, A. C-N., Palmeri, T. (2010). Manipulating Visual Experience: Comment on Op de Beeck and Baker. <em>Trends in Cognitive Sciences</em>, 235-236.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaWoPa2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., McKeeff, T.J., Tong, F., Gauthier, I. (2011). Irrelevant objects of expertise compete with faces during visual search. <em>Attention, Perception &amp; Psychophysics</em>, 73(2):309-17.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/McGuginetal_APP2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McKeeff, T.J., McGugin, R. W., Tong, F., Gauthier, I. (2010). Expertise increases the functional overlap between face and object perception. <em>Cognition</em>, 117(3): 355-60.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/McKeeffGauthierCog10RSVPCar.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K., Gauthier, I. (2010). A multimodal neural network recruited by expertise with musical notation. <em>Journal of Cognitive Neuroscience</em>, 22(4), 695-713.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WongGauthier_2010.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K., Gauthier, I. (2010). Holistic processing of musical notation: Dissociating failures of selective attention in experts and novices. <em>Cognitive and Affective Behavioral Neuroscience</em>, 541-551.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WongGauthier2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, Y.K., Twedt, E., Sheinberg, D., Gauthier, I. (2010). Does Thompsons Thatcher effect reflect a face-specific mechanism? &nbsp;<em>Perception</em>, 1125-1141.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Wongetal_2010_Perception.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>McGugin, R.W., Gauthier, I. (2009). Perceptual expertise with objects predicts another hallmark of face perception. <em>Journal of Vision</em>, 10(4): 1-12.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WilGau_2010.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheung, O.S., Hayward, W.G., Gauthier, I. (2009). Dissociating the effects of angular disparity and image similarity in mental rotation and object recognition, <em>Cognition</em>, 113(1), 128-133.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/ChHaGa09.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M., Gauthier, I. (2009). The temporal advantage for encoding objects of expertise: Perceptual expertise is an early riser. <em>Journal of Vision</em>, 9(6):7, 1-13.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CuGa_2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M., Glazek, K., Gauthier, I. (2009). A visual short-term memory advantage for objects of expertise. <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 35(1): 94-107.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CuGlGa_2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Klaiman, C., Schultz, R.T. (2009). Face composite effects reveal abnormal face processing in Autism Spectrum Disorders, <em>Vision Research</em>, 49(4): 470-8.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaKlSc2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, K.H., Gauthier, I. (2009). When writing impairs reading: Letter perception's susceptibility to motor interference, <em>Journal of Experimental Psychology: General</em>, 138(3), 416-431.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/James-Gauthier_JEP-G2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mack, M.L., Wong, A.C.-N., Gauthier, I., Tanaka, J. W., Palmeri, T. (2009). Time-Course of Visual Object Categorization: Fastest Does Not Necessarily Mean First, <em>Vision Research</em>, 49, 1961-1968. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Mack-Wong-Gauthier-Tanaka-Palmeri-VR2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Bukach, C.M., Gauthier, I. (2009). Context influences holistic processing of non-face objects in the composite task, <em>Perception and Psychophysics</em>, 71(3): 530-40.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiBuGa2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Cheung, O.S., Wong, A. C.-N., (2009). Does response interference contribute to face composite effects? &nbsp;<em>Psychonomic Bulletin and Review</em>, 16(2): 258-63.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiChWo09.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Mack, M.L., Gauthier, I., Palmeri. T.J. (2009). Holistic processing happens at a glance, <em>Vision Research</em>, 49, 2856-2861.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiMaGaPa2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Williams, N.R., Willenbockel, V., Gauthier, I. (2009). Sensitivity to spatial frequency and orientation content is not specific to face perception, <em>Vision Research</em>, 49, 2353-2362. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Williamsetal_SF1.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, A. C.-N., Palmeri, T. J., Gauthier, I. (2009). Conditions for face-like expertise with objects: Becoming a Ziggerin expert - but which type? <em>Psychological Science</em>, 20(9): 1108-1117.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Wongetal2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, A.C.-N., Jobard, G., James, K.H., James, T.W., Gauthier,I. (2009). Expertise with characters in alphabetic and non-alphabetic writing systems engage overlapping occipito-temporal areas, <em>Cognitive Neuropsychology</em>, 26(1), 111-127.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WoJoJa_inpress.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, A.C.-N., Palmeri, T.J., Rogers, B.P., Gore, J.C., Gauthier, I. (2009). Beyond shape: How you learn about objects affects how they are represented in visual cortex, <em>PLoS One</em>, 2(12), e8405.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WoPaRo_2009.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheung, O.S., Richler, J.J., Palmeri, T.J., Gauthier, I. (2008). Revisiting the Role of Spatial Frequencies in the Holistic Processing of Faces.<em> Journal of Experimental Psychology: Human Perception and Performance</em>, 34(6): 1327-36.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/ChRiPa08.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hoffman, K.L., Ghazanfar, A.A., Gauthier, I., Logothetis, N.K. (2008). Category-specific responses to faces and objects in primate auditory cortex, <em>Frontiers in Systems Neuroscience</em>, 10.3389/neuro.06/002.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Hoffmanetal2008.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mack, M.L., Gauthier, I., Sadr, J., Palmeri, T.J. (2008). Object detection and basic-level categorization: sometimes you know it is there before you know what it is,<em> Psychonomic Bulletin and Review</em>, 15(1):28-35.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/MaGaSa08.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Gauthier, I., Wenger, M.J., Palmeri, T.J. (2008). Holistic processing of faces: perceptual and decisional components, <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, 34(2):328-42.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiGaWe08.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Tanaka, J.W., Brown, D.D., Gauthier,I. (2008). Why does selective attention fail in face processing? <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, 34(6): 1356-1368. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiTaBrGa2008.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M., Gauthier, I. (2007). A visual short-term memory advantage for faces, <em>Psychonomic Bulletin and Review</em>, 14(4): 620-628.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CuGa07.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Bukach, C. (2007). Should we reject the expertise hypothesis? <em>Cognition</em>, 322-330.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaBu07.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mack, M.L., Wong, A.C.-N., Gauthier, I., Tanaka, J.W., (2007). Unraveling the time-course of perceptual categorization: Does fastest mean first? <em>Proceedings of the Twenty-Ninth Annual Meeting of the Cognitive Science Society</em>, 1253-1258.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/MaWoGa07.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Richler, J.J., Mack, M.L., Gauthier, I. (2007). Distinguishing between perceptual and decisional sources of holism in face processing, <em>Proceedings of the TwentyNinth Annual Meeting of the Cognitive Science Society</em>, 1427-1432.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RiMaGa07.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, C.-N, Gauthier, I. (2007). An analysis of letter expertise in a levels-of-categorization framework, <em>Visual Cognition</em>, 15(7): 854-879. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WoGa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bukach, C. M., Bub, D. N., Gauthier, I., Tarr, M. J. (2006). Perceptual expertise effects are not all or none: local perceptual expertise for faces in a case of prosopagnosia, <em>Journal of Cognitive Neuroscience</em>, 18(1): 48-63.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/BuBuGa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bukach, C.M., Gauthier, I., Tarr, M.J. (2006). Beyond faces and modularity: the power of an expertise framework, <em>Trends in Cognitive Science</em>, 10(40): 159-66.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/BuGaTa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Wong, C.-N., Hayward, W., Cheung, S.-C. (2006). Font tuning associated with expertise in letter perception, <em>Perception</em>, 35(4): 541-49. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaWoHa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hayward, W.G., Zhou, G., Gauthier, I., Harris, I. (2006). Dissociating viewpoint costs in mental rotation and object recognition, <em>Psychonomic Bulletin and Review</em>, 13: 820-825.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/HaZhGa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, K.H., Gauthier, I. (2006). Letter Processing automatically recruits a multimodal brain network, <em>Neuropsychologia</em>, 44(14):2937-49. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/JaGa06b.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, T.W., Gauthier, I. (2006). Repetition-Induced Changes in BOLD Response Reflect Accumulation of Neural Activity, <em>Human Brain Mapping</em>, 27: 37-46.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/JaGa06.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Behrmann, M., Marrota, J., Gauthier, I., Tarr, M.J., McKeef, T.J. (2005). Behavioral change and its neural correlates in visual agnosia after expertise training, <em>Journal of Cognitive Neuroscience</em>, 17(4): 554-68.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/BeMaGa05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Curby, K.M. (2005). A Perceptual Traffic-Jam on Highway N170: Interference between face and car expertise, <em>Current Directions in Psychological Science</em>, 14(1): 30-33.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaCu05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Curby, K.M., Skudlarski, P., Epstein, R. (2005). Individual differences in FFA activity suggest independent processing at different spatial scales, <em>Cognitive, Affective, and Behavioral Neuroscience</em>, 5(2): 222-34.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaCuSkEp05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Grelotti, D.J., Klin, A. J., Gauthier, I., Skudlarski, P., Cohen, D.J., Gore, J.C., Volkmar, F. R., Schultz, R.T. (2005). fMRI activation of the fusiform gyrus and amygdala to cartoon characters but not faces in a boy with autism, <em>Neuropsychologia</em>, 43(3): 373-85.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GrKlGa05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, K. H., James, T. W., Jobard, G., Wong, C.-N., Gauthier, I. (2005). Letter processing in the visual system: different patterns for single letters and strings, <em>Cognitive and Affective Behavioral Neuroscience</em>, 5(4): 452-66.<a href="https://link.springer.com/article/10.3758/CABN.5.4.452">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, T.W., Shima, D.W., Tarr, M.J., Gauthier, I. (2005). Generating complex three-dimensional stimuli (Greebles) for haptic expertise training, <em>Behavior Research Methods, Instruments, and Computers</em>, 37(2): 353-8.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/JaShTaGa05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wong, C.-N., Gauthier, I., Woroch, B., DeBuse, C., Curran, T. (2005). An early electrophysiological response associated with expertise in letter perception, <em>Cognitive and Affective Behavioral Neuroscience</em>, 5(3): 306-318.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/WoGaWo05.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Curby, K.M., Hayward, W. G., Gauthier, I. (2004). Laterality effects in the Recognition of Depth Rotated Novel Objects, <em>Cognitive and Affective Behavioral Neuroscience</em>, 4(1): 100-11.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/CuHaGa04.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Behrmann, M., Tarr, M. J. (2004). Are Greebles like faces? Using the neuropsychological exception to test the rule. <em>Neuropsychologia</em>, 42(14): 1961-70.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaBeTa04.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, T. W., Gauthier, I. (2004). Brain areas engaged during visual judgments by involuntary access to semantic information, <em>Vision Research</em>, 44(5): 429-39.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/JaGa04.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Palmeri, T. J., Gauthier, I. (2004). Visual Object Understanding.<em> Nature Reviews Neuroscience,</em> 5, 291-303.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/PaGa04.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Palmeri, T. J., Wong, A. C.-N., Gauthier, I (2004). Computational approaches to the development of perceptual expertise. <em>Trends in Cognitive Sciences</em>, 8:378-86.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/PaWoGa04.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Curran, T., Curby, K.M and Collins, D. (2003). Perceptual interference evidence for a non-modular account of face processing. <em>Nature Neuroscience</em>, 6: 428-32.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaCuCuCo03.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., James, T.W., Curby, K.M., Tarr, M.J. (2003). The influence of conceptual knowledge on visual discrimination. <em>Cognitive Neuropsychology</em>, 3/4/5/6: 507-523.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaJaCuTa031.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Goffaux, V., Gauthier, I., Rossion, B. (2003). Spatial Scale contribution to early visual differences between face and object processing. <em>Cognitive Brain Research</em>, 16:416-24. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GoGaRo03_CBR.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>James, T. W., Gauthier, I. (2003). Auditory and action semantic feature types activate sensory-specific perceptual brain regions. <em>Current Biology</em>, 13(20): 1792-6.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/JaGa03.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Hayward, W. G., Tarr, M. J., Anderson, A. W., Skudlarski, P., Gore, J. C. (2002). BOLD activity during mental rotation and viewpoint-dependent object recognition. <em>Neuron</em>, 34: 161-171.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaHaTa_Neuron02.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Palmeri, T. J. (2002). Visual Neurons: Categorization-Based Selectivity. <em>Current Biology</em>, 12, R282-284. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Gauthier-VisualNeurons-CB2002.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr., M. J. (2002). Unraveling mechanisms for expert object recognition: Bridging Brain Activity and Behavior.<em> JEP:HPP</em>, 28(2): 431-446. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaTa_UnravelingMechanisms_02.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Grelotti, D., Gauthier, I., Schultz, R. T. (2002). Social interest and the development of cortical face specialization: what autism teaches us about face processing. <em>Developmental Psychobiology</em>, 40(30): 13-25. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GrGaSc_SocialInterest_02.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rossion, B., Curran, T., Gauthier, I. (2002). A defense of the subordinate level-expertise account for the N170 component. <em>Cognition</em>, 85(2): 189-196. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RoCuGu_ADefense-of-the.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rossion, B., Gauthier, I, Goffaux, V., Tarr, M.J., Crommelinck, M. (2002). Expertise training with novel objects leads to left lateralized face-like electrophysiological responses.<em> Psychological Science</em>, 13(3): 250-257.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RoGaGo_ExpertiseTraining_02.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rossion, B., Gauthier, I. (2002). How does the brain process upright and inverted faces? Behavioral and Cognitive Neuroscience Reviews, <em>Developmental Psychobiology</em>, 1(1): 63-75. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RoGa_HowDoes_02.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Nelson, C. (2001). The development of face expertise. <em>Current Opinion in Neurobiology</em>, 11:219-224. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaNe_TheDevelopment_01.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2000). What constrains the organization of ventral temporal cortex? [Commentary on Ishai, Ungerleider, Martin, Schouten.] <em>Trends in Cognitive Sciences</em>, 4(1): 1-2.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Gauthier00TICS.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I. (2000). Visual Priming: The ups and down of familiarity. [Commentary on James, Humphrey, Gati, Menon . Current Biology, 10(20): 753-756.&nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GauthierCommentaryCB2000.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Logothetis, N. (2000). Is face recognition not so unique after all?. Cognitive Neuropsychology, 17(1,2,3): 125-142. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaLo_IsFace_00.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Skudlarski, P., Gore, J.C., and Anderson, A.W. (2000). Expertise for cars and birds recruits brain areas involved in face recognition. Nature Neuroscience, 3(2): 191-197.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Gauthieretal2000NN.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr, M. J., Moylan, J., Anderson, A. W., Skudlarski, P., Gore, J. C. (2000). Does visual subordinate-level categorization engage the functionally-defined face area?. Cognitive Neuropsychology, 17(1/2/3), 143-163.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaTaMoAnSkGo_DoesVisual_00.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr, M. J., Moylan, J., Skudlarski, P., Gore, J. C., Anderson, A.W. (2000). The fusiform "face area" is part of a network that processes faces at the individual level. Journal of Cognitive Neuroscience, 12(3): 495-504. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaTaMoSkGoAn_TheFusiform_00.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rossion, B., Gauthier, I. , Tarr, M.J., Despland, P. , Bruyer, R, Linotte, S., Crommelinck, M. (2000). The N170 occipito-temporal component is delayed and enhanced to inverted faces but not to inverted objects: an electrophysiological account of face-specific processes in the human brain. NeuroReport, 11(1): 69-74. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RoGaTa_TheN170_00.pdf">PDF</a>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Schultz, R.T., Gauthier, I., Klin, A., Fulbright, R.K., Anderson, A.W., Volkmar, F., Skudlarski, P., Lacadie, C., Cohen, D.J., Gore, J.C. (2000). Abnormal ventral temporal cortical activity during face discrimination among individuals with autism and Asperger syndrome. Archives of General Psychiatry, 37: 331-340. &nbsp;<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/ScGaKl001.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tarr, M. J., and Gauthier, I. (2000). FFA: A flexible fusiform area for subordinate-level visual processing automatized by expertise. Nature Neuroscience, 3(8): 764769. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/TaGa_FFA_00.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Behrmann, M., and Tarr, M. J. (1999). Can face recognition really be dissociated from object recognition?. Journal of Cognitive Neuroscience, 11, 349-370.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaBeTa99.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr, M. J., Anderson, A. W., Skudlarski, P., &amp; Gore, J. C. (1999).Activation of the middle fusiform “face area” increases with expertise in recognizing novel objects. Nature Neuroscience, 2, 568-573.<a href="http://gauthier.psy.vanderbilt.edu/wp-content/uploads/2012/03/Gauthieretal19991.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Williams, P., Tarr, M. J., and Tanaka, J. (1998). Training "Greeble" experts: A framework for studying expert object recognition processes. Vision Research. Special issue on "Models of Recognition", 38: 2401-2428.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaWiTaVV98.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tarr, M. J., and Gauthier, I. (1998). Do viewpoint-dependent mechanisms generalize across members of a class? Cognition. Special issue on "Image-based Recognition in Man, Monkey, and Machine", 67, 71-108. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/TaGa_DoViewpoint_98.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tarr., M. J., Williams, P., Hayward, W. G., and Gauthier, I. (1998). Three-dimensional object recognition is viewpoint dependent. Nature Neuroscience, 1, 275-277.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/Tarretal_NN.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Anderson, A.W., Tarr, M. J., Skudlarski, P., Gore J.C. (1997). Levels of categorization in visual recognition studied with functional MRI. Current Biology, 7(9), 645-651. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaAnTaSkGo_Levels_97.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr, M. J. (1997). Becoming a "Greeble" expert: Exploring mechanisms for face recognition. Vision Research, 1673-1682.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaTaVV97.pdf">PDF</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gauthier, I., Tarr, M. J. (1997). Orientation priming of novel shapes in the context of viewpoint-dependent recognition. Perception, 26(1), 51-73.<a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/GaTa_OrientationPriming_97.pdf">PDF</a></p>
+<p>
+<!-- /wp:paragraph -->
