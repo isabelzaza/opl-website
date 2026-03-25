@@ -11,3 +11,5 @@ Conor Smithson has had a productive year, with five papers published or in press
 - In **Psychonomic Bulletin & Review**, we introduce scene proximity judgments to study food-specific recognition
 - In **Psychological Research** with Nurit Gronau, we demonstrate that object recognition ability predicts episodic location memory
 - In **JEP:General**, we link visual and auditory object recognition to spatial ability
+
+See [Publications](/publications/) for details.
