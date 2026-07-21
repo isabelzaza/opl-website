@@ -98,7 +98,7 @@ Benear, S.L., Sunday, M.A., Davidson, R., Palmeri, T.J. & Gauthier, I. (2024). <
 <h2>2023</h2>
 
 <div class="publication">
-Chang, T.-Y., Cha, O., McGugin, R., Tomarken, A. & Gauthier, I. (2023). <strong>How general is ensemble perception?</strong> <em>Psychological Research</em>. <a href="https://www.dropbox.com/scl/fi/xwq1msjkim51zk3tagt7n/ChangPR2023.pdf?rlkey=3en6fd6lmxlrljcriqexwg18c&dl=0">pre-print</a> | <a href="https://link.springer.com/epdf/10.1007/s00426-023-01883-z?sharing_token=sF4r_Oqj4fHoJLFfTdGUG_e4RwlQNchNByi7wbcMAY7lkCRzl7SsX5P9HdplVhlDNczPNp8yHZ9JEm_HAUp14ainiGpPLylvfHLmTGHgouWYESUNP8W42DbsZU65W5uo6mIGKa_Vff868ErAYCwr1MxyMK7ZbTsJPteTlHOtL4o%3D">sharelink</a>
+Chang, T.-Y., Cha, O., McGugin, R., Tomarken, A. & Gauthier, I. (2024). <strong>How general is ensemble perception?</strong> <em>Psychological Research</em>, 88(3), 695-708. < href="https://www.dropbox.com/scl/fi/xwq1msjkim51zk3tagt7n/ChangPR2023.pdf?rlkey=3en6fd6lmxlrljcriqexwg18c&dl=0">pre-print</a> | <a href="https://link.springer.com/epdf/10.1007/s00426-023-01883-z?sharing_token=sF4r_Oqj4fHoJLFfTdGUG_e4RwlQNchNByi7wbcMAY7lkCRzl7SsX5P9HdplVhlDNczPNp8yHZ9JEm_HAUp14ainiGpPLylvfHLmTGHgouWYESUNP8W42DbsZU65W5uo6mIGKa_Vff868ErAYCwr1MxyMK7ZbTsJPteTlHOtL4o%3D">sharelink</a>
 </div>
 
 <div class="publication">
