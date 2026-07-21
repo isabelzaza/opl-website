@@ -95,11 +95,11 @@ Gauthier, I. & Olatunji, B. (2024). <strong>Reduced Food Neophobia and Food Disg
 Benear, S.L., Sunday, M.A., Davidson, R., Palmeri, T.J. & Gauthier, I. (2024). <strong>Can art change the way we see?</strong> <em>Psychology of Aesthetics, Creativity, and the Arts</em>, <em>18</em>(5), 882-893. <a href="https://www.dropbox.com/s/r9q9hjw29n1hcr1/Benearetal_2019.pdf?dl=0">preprint</a>
 </div>
 
-<h2>2023</h2>
-
 <div class="publication">
-Chang, T.-Y., Cha, O., McGugin, R., Tomarken, A. & Gauthier, I. (2024). <strong>How general is ensemble perception?</strong> <em>Psychological Research</em>, 88(3), 695-708. < href="https://www.dropbox.com/scl/fi/xwq1msjkim51zk3tagt7n/ChangPR2023.pdf?rlkey=3en6fd6lmxlrljcriqexwg18c&dl=0">pre-print</a> | <a href="https://link.springer.com/epdf/10.1007/s00426-023-01883-z?sharing_token=sF4r_Oqj4fHoJLFfTdGUG_e4RwlQNchNByi7wbcMAY7lkCRzl7SsX5P9HdplVhlDNczPNp8yHZ9JEm_HAUp14ainiGpPLylvfHLmTGHgouWYESUNP8W42DbsZU65W5uo6mIGKa_Vff868ErAYCwr1MxyMK7ZbTsJPteTlHOtL4o%3D">sharelink</a>
+Chang, T.-Y., Cha, O., McGugin, R., Tomarken, A. & Gauthier, I. (2024). <strong>How general is ensemble perception?</strong> <em>Psychological Research</em>, <em>88</em>(3), 695-708. <a href="https://www.dropbox.com/scl/fi/xwq1msjkim51zk3tagt7n/ChangPR2023.pdf?rlkey=3en6fd6lmxlrljcriqexwg18c&dl=0">pre-print</a> | <a href="https://link.springer.com/epdf/10.1007/s00426-023-01883-z?sharing_token=sF4r_Oqj4fHoJLFfTdGUG_e4RwlQNchNByi7wbcMAY7lkCRzl7SsX5P9HdplVhlDNczPNp8yHZ9JEm_HAUp14ainiGpPLylvfHLmTGHgouWYESUNP8W42DbsZU65W5uo6mIGKa_Vff868ErAYCwr1MxyMK7ZbTsJPteTlHOtL4o%3D">sharelink</a>
 </div>
+
+<h2>2023</h2>
 
 <div class="publication">
 Gauthier, I. (2023). <strong>Expertise is domain-specific by definition – a comment on "Deep learning models challenge the prevailing assumption that face-like effects for objects of expertise support domain-general mechanisms" by Yovel and colleagues.</strong> <a href="https://psyarxiv.com/9hybj">PsyArXiv, 10.31234/osf.io/9hybj</a>
