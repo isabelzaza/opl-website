@@ -376,7 +376,7 @@ McGugin, R.W., Newton, A.T., Gore, J.C., & Gauthier, I. (2014). <strong>Robust e
 </div>
 
 <div class="publication">
-Cheung, O., & Gauthier, I. (2014). <strong>Visual appearance interacts with conceptual knowledge in object recognition.</strong> <em>Frontiers in Psychology - Cognition</em>, 5:793.
+Cheung, O., & Gauthier, I. (2014). <strong>Visual appearance interacts with conceptual knowledge in object recognition.</strong> <em>Frontiers in Psychology - Cognition</em>, 5:793. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00793/full">link</a>
 </div>
 
 <div class="publication">
@@ -422,7 +422,7 @@ Williams, L.E., Blackford, J.U., Luksik, A., Gauthier, I. & Heckers, S. (2013). 
 </div>
 
 <div class="publication">
-Richler, J.J., & Gauthier, I. (2013). <strong>When intuition fails to align with data: A reply to Rossion (2013).</strong> <em>Visual Cognition</em>. <a href="https://figshare.com/s/88019f519a746afc0cb4">PDF</a> | <a href="http://metrouk2.files.wordpress.com/2014/03/wpid-goat_raymonds_450x300.jpg">Goat high five</a> | <a href="https://figshare.com/s/0005de437be4a62dd0a6">PDF of Rossion 2013</a>
+Richler, J.J., & Gauthier, I. (2013). <strong>When intuition fails to align with data: A reply to Rossion (2013).</strong> <em>Visual Cognition</em>. <a href="https://figshare.com/s/88019f519a746afc0cb4">PDF</a> | <a href="https://figshare.com/s/0005de437be4a62dd0a6">PDF of Rossion 2013</a>
 </div>
 
 <div class="publication">
@@ -440,7 +440,7 @@ Richler, J.J., Palmeri, T.J., & Gauthier, I. (2012). <strong>Meanings, Mechanism
 </div>
 
 <div class="publication">
-McGugin, R.W., Gatenby, J.C., Gore, J.C., & Gauthier, I. (2012). <strong>High-resolution imaging of expertise reveals reliable object selectivity in the FFA related to perceptual performance.</strong> <em>Proceedings of the National Academy of Sciences</em>, <em>109</em>(42), 17063-17068. <a href="https://figshare.com/s/0484bac05a7135a0e8c6">PDF</a> | <a href="http://gauthier.psy.vanderbilt.edu/replytonk/">Response to Kanwisher's question</a> | <a href="http://gauthier.psy.vanderbilt.edu/reply-to-hans-op-de-beeck-about-mcgugin-et-al-2012/">Response to Op De Beeck's question</a>
+McGugin, R.W., Gatenby, J.C., Gore, J.C., & Gauthier, I. (2012). <strong>High-resolution imaging of expertise reveals reliable object selectivity in the FFA related to perceptual performance.</strong> <em>Proceedings of the National Academy of Sciences</em>, <em>109</em>(42), 17063-17068. <a href="https://figshare.com/s/0484bac05a7135a0e8c6">PDF</a>
 </div>
 
 <div class="publication">
