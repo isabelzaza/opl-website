@@ -52,7 +52,7 @@ Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity 
 </div>
 
 <div class="publication">
-Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition ability predicts episodic location memory, enhanced by meaningfulness.</strong> <em>Psychological Research</em>. <a href="https://link.springer.com/article/10.1007/s00426-026-02248-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260207&utm_content=10.1007%2Fs00426-026-02248-y" target="_blank">published version</a>
+Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition ability predicts episodic location memory, enhanced by meaningfulness.</strong> <em>Psychological Research</em>, <em>90</em>(1), 22. <a href="https://link.springer.com/article/10.1007/s00426-026-02248-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260207&utm_content=10.1007%2Fs00426-026-02248-y" target="_blank">published version</a>
 </div>
 
 <div class="publication">
