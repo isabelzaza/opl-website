@@ -53,7 +53,6 @@ title: People
 
 <h2>Research Assistants</h2>
 
-- Macire Kebe
 - [Aujin Choi](https://www.linkedin.com/in/aujin-choi-424062243/)
 - [James Be](https://www.linkedin.com/in/james-be-b8b395293/)
 
@@ -89,6 +88,7 @@ title: People
 - [Jason Chow](https://jasonc.how/){:target="_blank"}
 - Yiming Lin
 - Rankin McGugin
+- Macire Kebe
 
 </div>
 
