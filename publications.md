@@ -44,11 +44,11 @@ Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recogni
 </div>
 
 <div class="publication">
-Gauthier, I. and Smithson, C.J.R. (in press). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong> <em>Cognition</em>. <a href="https://authors.elsevier.com/sd/article/S0010-0277(26)00025-9" target="_blank">pdf</a>
+Gauthier, I. and Smithson, C.J.R. (2026). <strong>Attention control contributes to ensemble perception regardless of selection demands.</strong> <em>Cognition</em>, <em>271</em>, 106459. <a href="https://authors.elsevier.com/sd/article/S0010-0277(26)00025-9" target="_blank">pdf</a>
 </div>
 
 <div class="publication">
-Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity judgments to study food-specific recognition ability.</strong> <em>Psychonomic Bulletin & Review</em>. <a href="https://rdcu.be/e4rIj" target="_blank">pdf</a>
+Smithson, C.J.R., Lin, Y., & Gauthier, I. (2026). <strong>Using scene proximity judgments to study food-specific recognition ability.</strong> <em>Psychonomic Bulletin & Review</em>, <em>33</em>(3), 59. <a href="https://rdcu.be/e4rIj" target="_blank">pdf</a>
 </div>
 
 <div class="publication">
