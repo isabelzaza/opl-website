@@ -62,7 +62,7 @@ Chow, J., McGugin, R.W., & Gauthier, I. (2025). <strong>Domain-general object re
 </div>
 
 <div class="publication">
-McGugin, R.W., Newton, A.T., Lewis, B.J., Convery, C.A., Eyoh, E.E., Gauthier, I., & Cascio, C.J. (2025). <strong>Ultra-high resolution imaging of laminar thickness in face-selective cortex in autism.</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>, <em>25</em>, 1210-1223. <a href="{{ site.baseurl }}/assets/pdfs/Hooper_BRM_inpress.pdf">pre-print</a>, <a href="https://rdcu.be/d5idN">view-only journal link</a>
+McGugin, R.W., Newton, A.T., Lewis, B.J., Convery, C.A., Eyoh, E.E., Gauthier, I., & Cascio, C.J. (2025). <strong>Ultra-high resolution imaging of laminar thickness in face-selective cortex in autism.</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>, <em>25</em>, 1210-1223. <a href="{{ site.baseurl }}/assets/pdfs/McGugin_CABN2025_autism.pdf">pdf</a>, <a href="https://doi.org/10.3758/s13415-025-01298-w">journal link</a>
 </div>
 
 <h2>2024</h2>
@@ -202,7 +202,7 @@ Sunday, M., Patel, P.A., Dodd, M.A., & Gauthier, I. (2019). <strong>Gender and h
 </div>
 
 <div class="publication">
-Chang, T.-Y. & Gauthier, I. (2019). <strong>Distractor familiarity reveals the importance of configural information in musical notation.</strong> <em>Attention, Perception and Psychophysics</em>, 1-14.
+Chang, T.-Y. & Gauthier, I. (2019). <strong>Distractor familiarity reveals the importance of configural information in musical notation.</strong> <em>Attention, Perception and Psychophysics</em>, 1-14. <a href="{{ site.baseurl }}/assets/pdfs/ChangGauthier2019_APP.pdf">pdf</a>
 </div>
 
 <div class="publication">
@@ -258,7 +258,7 @@ Sunday, M.A., Donnelly, E., & Gauthier, I. (2017). <strong>Individual difference
 </div>
 
 <div class="publication">
-Chua, K.-W., Bub, D.N., Masson, M.E.J. & Gauthier, I. (2017). <strong>Grasp representations depend on knowledge and attention.</strong> <em>Journal of Experimental Psychology: Learning, Memory & Cognition</em>, <em>44</em>(2), 268-279. <a href="https://web.uvic.ca/psyc/masson/CBMG17.pdf">pdf</a>
+Chua, K.-W., Bub, D.N., Masson, M.E.J. & Gauthier, I. (2017). <strong>Grasp representations depend on knowledge and attention.</strong> <em>Journal of Experimental Psychology: Learning, Memory & Cognition</em>, <em>44</em>(2), 268-279. <a href="{{ site.baseurl }}/assets/pdfs/CBMG17.pdf">pdf</a>
 </div>
 
 <div class="publication">
@@ -768,7 +768,7 @@ Rossion, B., Curran, T., & Gauthier, I. (2002). <strong>A defense of the subordi
 </div>
 
 <div class="publication">
-Rossion, B., Gauthier, I, Goffaux, V., Tarr, M.J., & Crommelinck, M. (2002). <strong>Expertise training with novel objects leads to left lateralized face-like electrophysiological responses.</strong> <em>Psychological Science</em>, 13(3): 250-257. <a href="http://gauthier.psy.vanderbilt.edu/wordpress/wp-content/uploads/2012/03/RoGaGo_ExpertiseTraining_02.pdf">PDF</a>
+Rossion, B., Gauthier, I, Goffaux, V., Tarr, M.J., & Crommelinck, M. (2002). <strong>Expertise training with novel objects leads to left lateralized face-like electrophysiological responses.</strong> <em>Psychological Science</em>, 13(3): 250-257. <a href="{{ site.baseurl }}/assets/pdfs/RoGaGo_ExpertiseTraining_02.pdf">PDF</a>
 </div>
 
 <div class="publication">
