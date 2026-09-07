@@ -36,6 +36,10 @@ Gauthier, I. (submitted). <strong>Hyperrealism in AI face detection is context-d
 <h2>2026</h2>
 
 <div class="publication">
+Palmeri, T.J., & Gauthier, I. (in press). <strong>Object recognition.</strong> To appear in D.J. Calkins, V.A. Casagrande, J.D. Schall, & G.F. Woodman (Eds.), <em>The Visual System</em>, Sinauer Associates.
+</div>
+
+<div class="publication">
 Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>, 11.1-11.30. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053">pdf</a>
 </div>
 
