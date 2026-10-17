@@ -22,10 +22,6 @@ Mueller, M. & Gauthier, I. (submitted). <strong>The Effect of Color Filters on F
 </div>
 
 <div class="publication">
-Smithson, C.J.R., Tomarken, A.J. & Gauthier, I. (submitted). <strong>Domain-general object encoding ability explains shared variance between perception and memory factors.</strong> <a href="https://osf.io/preprints/psyarxiv/yh324_v1" target="_blank">pre-peer review version</a>
-</div>
-
-<div class="publication">
 Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically in Ensemble Judgments.</strong>
 </div>
 
@@ -34,6 +30,10 @@ Gauthier, I. (submitted). <strong>Hyperrealism in AI face detection is context-d
 </div>
 
 <h2>2026</h2>
+
+<div class="publication">
+Smithson, C.J.R., Tomarken, A.J. & Gauthier, I. (in press). <strong>Domain-general object encoding ability explains shared variance between perception and memory factors.</strong> <em>Psychological Review</em>. <a href="https://osf.io/preprints/psyarxiv/yh324_v1" target="_blank">pre-peer review version</a>
+</div>
 
 <div class="publication">
 Palmeri, T.J., & Gauthier, I. (in press). <strong>Object recognition.</strong> To appear in D.J. Calkins, V.A. Casagrande, J.D. Schall, & G.F. Woodman (Eds.), <em>The Visual System</em>, Sinauer Associates.
