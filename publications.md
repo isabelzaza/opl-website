@@ -40,7 +40,7 @@ Palmeri, T.J., & Gauthier, I. (in press). <strong>Object recognition.</strong> T
 </div>
 
 <div class="publication">
-Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>, 11.1-11.30. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053">pdf</a>
+Smithson, C.J.R. & Gauthier, I. (2026). <strong>Is domain-general object recognition ability a novel construct?</strong> <em>Annual Review of Psychology</em>, <em>77</em>(1), 139-168. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053">pdf</a>
 </div>
 
 <div class="publication">
@@ -56,31 +56,31 @@ Gronau, N., Smithson, C.J.R., & Gauthier, I. (2026). <strong>Object recognition 
 </div>
 
 <div class="publication">
-Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (in press). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <em>Journal of Experimental Psychology: General</em>. <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
+Smithson, C.J.R., Chow, J.K., Tomarken, A., & Gauthier, I. (2026). <strong>Visual and auditory object recognition in relation to spatial ability.</strong> <em>Journal of Experimental Psychology: General</em>, <em>155</em>(7), 1809-1822. <a href="https://osf.io/preprints/osf/9a2ck_v1" target="_blank">pre-peer review version</a>
+</div>
+
+<div class="publication">
+Chow, J., McGugin, R.W., & Gauthier, I. (2026). <strong>Domain-general object recognition predicts human ability to tell real from AI-generated faces.</strong> <em>Journal of Experimental Psychology: General</em>, <em>155</em>(3), 629-648. <a href="{{ site.baseurl }}/assets/pdfs/AI_JEPG_2025_Accepted.pdf">pre-print</a>
 </div>
 
 <h2>2025</h2>
 
 <div class="publication">
-Chow, J., McGugin, R.W., & Gauthier, I. (2025). <strong>Domain-general object recognition predicts human ability to tell real from AI-generated faces.</strong> <em>Journal of Experimental Psychology: General</em>. <a href="{{ site.baseurl }}/assets/pdfs/AI_JEPG_2025_Accepted.pdf">pre-print</a>
+McGugin, R.W., Newton, A.T., Lewis, B.J., Convery, C.A., Eyoh, E.E., Gauthier, I., & Cascio, C.J. (2025). <strong>Ultra-high resolution imaging of laminar thickness in face-selective cortex in autism.</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>, <em>25</em>(4), 1210-1223. <a href="{{ site.baseurl }}/assets/pdfs/McGugin_CABN2025_autism.pdf">pdf</a>, <a href="https://doi.org/10.3758/s13415-025-01298-w">journal link</a>
 </div>
 
 <div class="publication">
-McGugin, R.W., Newton, A.T., Lewis, B.J., Convery, C.A., Eyoh, E.E., Gauthier, I., & Cascio, C.J. (2025). <strong>Ultra-high resolution imaging of laminar thickness in face-selective cortex in autism.</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>, <em>25</em>, 1210-1223. <a href="{{ site.baseurl }}/assets/pdfs/McGugin_CABN2025_autism.pdf">pdf</a>, <a href="https://doi.org/10.3758/s13415-025-01298-w">journal link</a>
+Hooper, M.A., Tomarken, A., & Gauthier, I. (2025). <strong>Measuring Visual Ability in Linguistically Diverse Populations.</strong> <em>Behavior Research Methods</em>, <em>57</em>(1), 36. <a href="{{ site.baseurl }}/assets/pdfs/Hooper_BRM_inpress.pdf">pre-print</a>, <a href="https://rdcu.be/d5idN">view-only journal link</a>
 </div>
 
 <h2>2024</h2>
 
 <div class="publication">
-Hooper, M.A., Tomarken, A., & Gauthier, I. (2024). <strong>Measuring Visual Ability in Linguistically Diverse Populations.</strong> <em>Behavior Research Methods</em>. <a href="{{ site.baseurl }}/assets/pdfs/Hooper_BRM_inpress.pdf">pre-print</a>, <a href="https://rdcu.be/d5idN">view-only journal link</a>
+McGugin, R.W., Roche, A., Ma, J. & Gauthier, I. (2024). <strong>Challenges in replication: does amygdala gray matter volume relate to social network size?</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>, <em>24</em>(4), 707-719. <a href="https://link.springer.com/content/pdf/10.3758/s13415-024-01185-w.pdf">online</a>
 </div>
 
 <div class="publication">
-McGugin, R.W., Roche, A., Ma, J. & Gauthier, I. (2024). <strong>Challenges in replication: does amygdala gray matter volume relate to social network size?</strong> <em>Cognitive and Affective Behavioral Neuroscience</em>. <a href="https://link.springer.com/content/pdf/10.3758/s13415-024-01185-w.pdf">online</a>
-</div>
-
-<div class="publication">
-Smithson, C.J.R., Chow, J.K., Chang, T.-Y. & Gauthier, I. (2024). <strong>Measuring object recognition ability: reliability, validity, and the aggregate z-score approach.</strong> <em>Behavior Research Methods</em>. <a href="{{ site.baseurl }}/assets/pdfs/Smithson-et-al-2024-Measuring-obj-rec-Postprint.pdf">pre-print</a>
+Smithson, C.J.R., Chow, J.K., Chang, T.-Y. & Gauthier, I. (2024). <strong>Measuring object recognition ability: reliability, validity, and the aggregate z-score approach.</strong> <em>Behavior Research Methods</em>, <em>56</em>(7), 6598-6612. <a href="{{ site.baseurl }}/assets/pdfs/Smithson-et-al-2024-Measuring-obj-rec-Postprint.pdf">pre-print</a>
 </div>
 
 <div class="publication">
@@ -88,11 +88,11 @@ Chang, T.-Y., Cha, O. & Gauthier, I. (2024). <strong>A general ability for judgi
 </div>
 
 <div class="publication">
-Chow, J.K., Palmeri, T.J. & Gauthier, I. (2024). <strong>Distinct but related abilities for visual and haptic object recognition.</strong> <em>Psychonomic Bulletin & Review</em>. <a href="{{ site.baseurl }}/assets/pdfs/Chow2024_PBR.pdf">pre-print</a>
+Chow, J.K., Palmeri, T.J. & Gauthier, I. (2024). <strong>Distinct but related abilities for visual and haptic object recognition.</strong> <em>Psychonomic Bulletin & Review</em>, <em>31</em>(5), 2148-2159. <a href="{{ site.baseurl }}/assets/pdfs/Chow2024_PBR.pdf">pre-print</a>
 </div>
 
 <div class="publication">
-Gauthier, I. & Olatunji, B. (2024). <strong>Reduced Food Neophobia and Food Disgust in Colorblind Men.</strong> <em>Motivation & Emotion</em>. <a href="{{ site.baseurl }}/assets/pdfs/GaOl_M-E_2023_accepted.pdf">pre-print</a>
+Gauthier, I. & Olatunji, B. (2024). <strong>Reduced Food Neophobia and Food Disgust in Colorblind Men.</strong> <em>Motivation & Emotion</em>, <em>48</em>(2), 198-208. <a href="{{ site.baseurl }}/assets/pdfs/GaOl_M-E_2023_accepted.pdf">pre-print</a>
 </div>
 
 <div class="publication">
