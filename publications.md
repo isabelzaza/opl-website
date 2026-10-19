@@ -22,14 +22,14 @@ Mueller, M. & Gauthier, I. (submitted). <strong>The Effect of Color Filters on F
 </div>
 
 <div class="publication">
-Cha, O. & Gauthier, I. (submitted). <strong>Faces Are Not Processed Holistically in Ensemble Judgments.</strong>
-</div>
-
-<div class="publication">
 Gauthier, I. (submitted). <strong>Hyperrealism in AI face detection is context-dependent and predicted by object recognition ability.</strong>
 </div>
 
 <h2>2026</h2>
+
+<div class="publication">
+Cha, O. & Gauthier, I. (in press). <strong>Faces Are Not Processed Holistically in Ensemble Judgments.</strong> <em>Visual Cognition</em>.
+</div>
 
 <div class="publication">
 Smithson, C.J.R., Tomarken, A.J. & Gauthier, I. (in press). <strong>Domain-general object encoding ability explains shared variance between perception and memory factors.</strong> <em>Psychological Review</em>. <a href="https://osf.io/preprints/psyarxiv/yh324_v1" target="_blank">pre-peer review version</a>
